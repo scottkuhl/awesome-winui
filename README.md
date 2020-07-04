@@ -70,6 +70,8 @@ Articles are listed by newest date first.
 
 * [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
 
+* [Hinge angle sensor for Uno Platform dual-screen apps](https://blog.mzikmund.com/2020/02/hinge-angle-sensor-for-uno-platform-dual-screen-apps/) - (February 11, 2020) - Today, Uno Platform gets support for another unique aspect of the upcoming Surface devices – the hinge angle sensor, just in time for the Microsoft 365 Developer Day for dual-screen devices! So how does it work?
+
 * [Advertising networks for UWP apps](https://blog.mzikmund.com/2020/02/advertising-networks-for-uwp-apps/) - (February 4, 2020) - Microsoft, unfortunately, threw in the proverbial towel with its Ad Monetization platform for UWP apps. While we are waiting for a more official and detailed statement and suggested transition path, what are the alternative advertising networks available for UWP we can use?
 
 * [Modern XAML Development](https://www.mrlacey.com/2020/02/modern-xaml-development-notes-from.html) - (February 4, 2020) - Today (at the time of posting) I'm talking in Stokholm about Modern XAML Development. Here for your simple consumption are links to all the things I talked about, demonstrated or otherwise mentioned. [Slides are also available](https://www.mrlacey.com/2020/02/modern-xaml-development-slides-and.html).
