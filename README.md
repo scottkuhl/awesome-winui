@@ -72,6 +72,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?style=flat-square&cacheSeconds=86000) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
 
+* [Project Reunion](https://github.com/microsoft/ProjectReunion) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/ProjectReunion?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ProjectReunion?style=flat-square&cacheSeconds=86000) Project Reunion is our vision for unifying and evolving the Windows developer platform to make it easier to build great apps that work across all the Windows 10 versions and devices people use.
+
 * [Telerik UI for WinUI](https://www.telerik.com/winui) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
 ## Tooling
