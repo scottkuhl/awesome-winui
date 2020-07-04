@@ -32,6 +32,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - Official documentation of Windows Forms, from Microsoft.
 
+* [Windows Presentation Foundation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - Official documentation of Windows Presentation Foundation, from Microsoft.
+
 ## Libraries
 
 * [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?style=flat-square&cacheSeconds=86000) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
