@@ -120,7 +120,9 @@ WinUI 3.0 Alpha status update. New feature discussions / demos - we'll demo some
 
 Podcasts are listed by newest date first.
 
-* [Ryan Demopoulos on WinUI](http://azuredevopspodcast.clear-measure.com/ryan-demopoulos-on-winui-episode-80) - (March 16 2020) - The Azure DevOps Podcast - In this episode, Jeffrey and Ryan discuss WinUI in-depth. Ryan explains what it is, the changes and developments he has seen (and been a part of) over the course of his career, where he sees it heading in 10 years time, details of the release roadmap, cross-platform development, what the team is currently working on — and a whole lot more!
+* [Ryan Demopoulos on WinUI](http://azuredevopspodcast.clear-measure.com/ryan-demopoulos-on-winui-episode-80) - (March 16, 2020) - The Azure DevOps Podcast - In this episode, Jeffrey and Ryan discuss WinUI in-depth. Ryan explains what it is, the changes and developments he has seen (and been a part of) over the course of his career, where he sees it heading in 10 years time, details of the release roadmap, cross-platform development, what the team is currently working on — and a whole lot more!
+
+* [XAML Tooling with Dmitry Lyalin]https://www.dotnetrocks.com/?show=1669) - (January 9, 2020) - .NET Rocks! - How do you write XAML? Carl and Richard chat with Dmitry Lyalin about Microsoft's on-going efforts to make coding in XAML faster, easier and more reliable. Dmitry starts out talking about how there are different dialects of XAML, including WPF, UWP, Xamarin Forms and more - although there are concerted efforts to keep them more in sync. And that helps with tooling also! Dmitry dives into Blend, XAML Designer and the power of coding XAML directly with IntelliCode, hot-reload and more!
 
 ## Screencasts
 
