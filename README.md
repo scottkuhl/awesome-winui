@@ -78,6 +78,8 @@ Events are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Microsoft Emulator and Windows 10X Emulator Image (Preview) build 19578 available now!](https://blogs.windows.com/windowsdeveloper/2020/03/10/microsoft-emulator-and-windows-10x-emulator-image-preview-build-19578-available-now/?WT.mc_id=DX_MVP4025064) - (March 10, 2020) - Today we released new versions of both the Microsoft Emulator and the Windows 10X Emulator Image (Preview) to the Microsoft Store.
+
 * ['Developers have lost hope Microsoft will do the right thing'... Redmond urged to make WinUI cross-platform](https://www.theregister.com/2020/02/28/winui_cross_platform/) - (February 28, 2020) - Microsoft's roadmap for developing Windows applications is opposed by some programmers who want to see a cross-platform solution, rather than just being Windows-only.
 
 * [Calling WinUI from Blazor App Hosted in WebView2](https://www.thomasclaudiushuber.com/2020/02/19/calling-winui-from-blazor-app-hosted-in-webview2/) - (February 19, 2020) - But can you also call from the hosted Blazor app into your WinUI app? Of course you can. To show you how it works, I’ve extended the application from the previous blog post.
