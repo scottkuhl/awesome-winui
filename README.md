@@ -61,6 +61,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 Articles are listed by newest date first.
 
+* [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
+
 * [Uno Platform 2.0 RELOADED – GitPod Integration](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration/) - (January 23, 2020) - Uno Platform now provides integration with GitPod, the online development environment based on Theia (Alternative to VS Code) and Linux Docker containers.
 
 * [Usability Matters for the Surface Neo and the Surface Duo](https://www.mrlacey.com/2020/01/usability-matters-for-surface-neo-and.html) - (January 23, 2020) - Before the new surface devices arrive and trying to avoid the hype, in this post, I want to use the structure and pointers from the book ([Usability Matters](https://www.manning.com/books/usability-matters)) to highlight important areas about which to think.
