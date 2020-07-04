@@ -11,6 +11,15 @@ We use Releases to alert of new content, add a **Watch** to **Releases only** to
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/scottkuhl/awesome-winui/blob/master/contributing.md) pages first.
 
+# Upcoming Events
+
+WinUI July Community Call (July 15th, 2020 9:00 AM PDT)
+
+This is the July edition of the monthly WinUI Community Call where we share the latest updates on our platform and answer all of your questions.
+
+[<img src="https://github.com/scottkuhl/awesome-winui/raw/master/Images/Community%20Call.png">](https://www.youtube.com/watch?v=lcnqqkYggCw&list=PLI_J2v67C23ZqsolUDaHoFkF1GKvGrttB&index=7)
+
+
 ## Introduction
 
 ### What is WinUI?
