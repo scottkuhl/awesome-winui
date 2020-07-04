@@ -30,6 +30,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 ## General
 
+* [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/) - Official documentation of Universal Windows Platform, from Microsoft.
+
 * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - Official documentation of Windows Forms, from Microsoft.
 
 * [Windows Presentation Foundation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - Official documentation of Windows Presentation Foundation, from Microsoft.
