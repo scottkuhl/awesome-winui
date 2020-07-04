@@ -27,6 +27,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [General](#general)
 * [Libraries](#libraries)
 * [Tooling](#tooling)
+* [Articles](#articles)
 
 ## General
 
@@ -47,3 +48,10 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
+
+## Articles
+
+Articles are listed by newest date first.
+
+* [Usability Matters for the Surface Neo and the Surface Duo](https://www.mrlacey.com/2020/01/usability-matters-for-surface-neo-and.html) - (January 23, 2020) - Before the new surface devices arrive and trying to avoid the hype, in this post, I want to use the structure and pointers from the book ([Usability Matters](https://www.manning.com/books/usability-matters)) to highlight important areas about which to think.
+
