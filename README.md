@@ -127,6 +127,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Project Reunion: An End to Microsoft’s UI Madness?](https://medium.com/young-coder/project-reunion-an-end-to-microsofts-ui-madness-1af662e36386) - (May 22, 2020) - After years of confusion, Windows development is about to improve… slowly
+
 * [Microsoft Build 2020: Uno Platform + WinUI = Future of Cross Platform Apps](https://nicksnettravels.builttoroam.com/microsoft-build-2020-uno-platform-winui-future-of-cross-platform-apps/) - (May 20, 2020) - I’ve been a long time supporter of the work that the team at Uno Platform have been doing. The announcement today of v3.0 of the Uno Platform comes hot on the heals of releases 2.3 and 2.4 that introduced AndroidX and MacOS support. This isn’t just any old announcement, v3 aligns the Uno Platform with the preview of WinUI 3.
 
 * [Improvements to XAML tooling in Visual Studio 2019 version 16.7 Preview 1](https://devblogs.microsoft.com/visualstudio/improvements-to-xaml-tooling-in-visual-studio-2019-version-16-7-preview-1/) - (May 20, 2020) - Hello once again from the XAML tooling team in Visual Studio. Given this week’s many new and exciting releases at Microsoft Build 2020 I want to take this opportunity to recap what’s new for those building WPF or UWP applications, and where applicable, Xamarin.Forms.
