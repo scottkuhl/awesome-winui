@@ -82,8 +82,6 @@ Articles are listed by newest date first.
 
 * [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
 
-* [Hinge angle sensor for Uno Platform dual-screen apps](https://blog.mzikmund.com/2020/02/hinge-angle-sensor-for-uno-platform-dual-screen-apps/) - (February 11, 2020) - Today, Uno Platform gets support for another unique aspect of the upcoming Surface devices – the hinge angle sensor, just in time for the Microsoft 365 Developer Day for dual-screen devices! So how does it work?
-
 * [Microsoft shows off how containerized apps will work in Windows 10X](https://www.zdnet.com/article/microsoft-shows-off-how-containerized-apps-will-work-in-windows-10x/#ftag=RSSbaffb68) - (February 11, 2020) - Microsoft is delivering its promised Windows 10X emulator and SDK, plus a refresh of its Android-based Duo SDK as its next milestones along its dual-screen device path.
 
 * [Advertising networks for UWP apps](https://blog.mzikmund.com/2020/02/advertising-networks-for-uwp-apps/) - (February 4, 2020) - Microsoft, unfortunately, threw in the proverbial towel with its Ad Monetization platform for UWP apps. While we are waiting for a more official and detailed statement and suggested transition path, what are the alternative advertising networks available for UWP we can use?
@@ -92,10 +90,6 @@ Articles are listed by newest date first.
 
 * [Surface Duo – WinUI TwoPaneView implementation via Uno Platform](https://platform.uno/blog/surface-duo-winui-twopaneview-implementation-via-uno-platform/) - (February 3, 2020) - Uno Platform is in the position to be able to use the controls from WinUI (Our #WinUIEverywhere vision), and Microsoft is making development in the open for such devices in the form of the TwoPaneView control which allows us to experiment with it early and often.
 
-* [Uno Platform 2.0 RELOADED – GitPod Integration](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration/) - (January 23, 2020) - Uno Platform now provides integration with GitPod, the online development environment based on Theia (Alternative to VS Code) and Linux Docker containers.
-
 * [Usability Matters for the Surface Neo and the Surface Duo](https://www.mrlacey.com/2020/01/usability-matters-for-surface-neo-and.html) - (January 23, 2020) - Before the new surface devices arrive and trying to avoid the hype, in this post, I want to use the structure and pointers from the book ([Usability Matters](https://www.manning.com/books/usability-matters)) to highlight important areas about which to think.
 
 * [Announcing dual-screen preview SDKs and Microsoft 365 Developer Day](https://blogs.windows.com/windowsdeveloper/2020/01/22/announcing-dual-screen-preview-sdks-and-microsoft-365-developer-day/?WT.mc_id=DX_MVP4025064) - (January 22, 2020) - In November, we shared our vision for dual-screen devices and how this new device category will help people get more done on smaller and more mobile form factors. Today, we are excited to give you an update on how you can get started and optimize for dual-screen devices.
-
-* [Custom fonts in Uno Platform](https://blog.mzikmund.com/2020/01/custom-fonts-in-uno-platform/) - (January 16, 2020) - Custom fonts are super useful to make your application match company brand and to create vector-based font icons. Let’s take a look at how we can use custom fonts in UWP, Android, iOS, and WebAssembly with Uno Platform!
