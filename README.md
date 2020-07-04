@@ -73,6 +73,8 @@ Books are listed by newest date first.
 
 Events are listed by newest date first.
 
+* [Community Call, June 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2649) - (June 17, 2020 9:00AM PDT) - Status Update on WinUI. Community Spotlight: Arlo to speak about the UWP Community Discord Launch 2020 effort. Ecosystem Spotlight: Telerik - Developer Advocate Sam to speak all about Telerik and demo some of their exciting features.
+
 * [Community Call, May 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2437) - (May 20, 2020 9:00AM PDT) -  WinUI 3 Preview 1 capabilities, limitations, and roadmap updates w/ @ryandemopoulos. Quick mention of Windows Community Toolkit updates w/ @michael-hawker. Deep-dive: Preview 1 demo w/ @marb2000. Partner Spotlight: @dotMorten of Esri. Partner Spotlight: Uno Platform.
 
 * [Community Call, April 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2245) - (April 15, 2020 9:00AM PDT) - Status Report for WinUI 3. 
