@@ -73,8 +73,10 @@ Books are listed by newest date first.
 
 Events are listed by newest date first.
 
-* [Community Call, March 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2104) - (March 18, 2020 9:00AM PDT) - Quick intro/recap on WinUI. Community Spotlight: TabView updates & sample demo with Marcel (@chingucoding) and Steven (@stmoy). Brief update on this month's progress
-Deep-dive with @ryandemopoulos: Demystifying how WinUI 3 relates to Desktop Apps, Win32, UWP, WinUI 2, and other frameworks like Xamarin.Forms and React Native.
+* [Community Call, April 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2245) - (April 15, 2020 9:00AM PDT) - Status Report for WinUI 3. 
+We will be welcoming Ginny Caughey, who’ll be talking about her modernization plan that includes WPF in the future. So far, she’s used our Alpha to port over a UWP app to a WinUI 3 app in about an hour(!). @michael-hawker will be joining us to introduce the WCT, talk about how the relationship between the WCT and WinUI, and demoing exciting controls from the WCT. WinUI 2.4: HierarchicalNavigationView demo. WinUI 2.4: ProgressRing demo. WinUI 2.4: Radial Gradient Brush demo.
+
+* [Community Call, March 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2104) - (March 18, 2020 9:00AM PDT) - Quick intro/recap on WinUI. Community Spotlight: TabView updates & sample demo with Marcel (@chingucoding) and Steven (@stmoy). Brief update on this month's progress Deep-dive with @ryandemopoulos: Demystifying how WinUI 3 relates to Desktop Apps, Win32, UWP, WinUI 2, and other frameworks like Xamarin.Forms and React Native.
 
 * [Community Call, February 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1972) - (February 19, 2020 9:00AM PDT) - We'll give a progress update on WinUI Desktop - Miguel (@marb2000) will be joining us in the studio to talk about topics like win32 support, desktop windowing, app model changes so that WinUI isn't dependent on UWP, etc.
 
