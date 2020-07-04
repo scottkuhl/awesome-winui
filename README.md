@@ -27,7 +27,9 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [General](#general)
 * [Libraries](#libraries)
 * [Tooling](#tooling)
+
 * [Articles](#articles)
+* [Events](#events)
 
 ## General
 
@@ -57,3 +59,8 @@ Articles are listed by newest date first.
 
 * [Announcing dual-screen preview SDKs and Microsoft 365 Developer Day](https://blogs.windows.com/windowsdeveloper/2020/01/22/announcing-dual-screen-preview-sdks-and-microsoft-365-developer-day/?WT.mc_id=DX_MVP4025064) - (January 22, 2020) - In November, we shared our vision for dual-screen devices and how this new device category will help people get more done on smaller and more mobile form factors. Today, we are excited to give you an update on how you can get started and optimize for dual-screen devices.
 
+## Events
+
+Events are listed by newest date first.
+
+* [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365
