@@ -28,6 +28,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Libraries](#libraries)
 * [Tooling](#tooling)
 
+* [Books](#books)
 * [Articles](#articles)
 * [Events](#events)
 
@@ -56,6 +57,12 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
+
+## Books
+
+Books are listed by newest date first.
+
+* Learn WinUI 3.0 - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
 
 ## Articles
 
