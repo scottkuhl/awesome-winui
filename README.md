@@ -111,7 +111,9 @@ Podcasts are listed by newest date first.
 
 Screencasts are listed by newest date first.
 
-* [Everything you need to know about WinUI](https://mybuild.microsoft.com/sessions/b0300eb4-a462-48ec-956d-7caa18470e3c?source=sessions) - (may 20, 2020) - WinUI is Microsoft’s UI framework of the future for every app on Windows, designed to work in both Universal (UWP) and Desktop (Win32) apps.  Come learn how WinUI provides a path forward for every Windows Developer, whether you’re using WinForms, WPF, MFC, native or .NET, and more!  Replays [Session B](https://mybuild.microsoft.com/sessions/7d5b56db-d367-43ac-9163-44de4e3919e8?source=sessions) and [Session 3](https://mybuild.microsoft.com/sessions/11720456-1481-4493-a2a2-d87d7985a540?source=sessions) also available.
+* [Building apps for 1 billion Windows 10 Desktops and expanding reach even further with Windows Virtual Desktop](https://mybuild.microsoft.com/sessions/db7c338d-3ba6-4c89-8713-2fdf5807a3b6?source=sessions) - (May 20, 2020) - Learn how to take advantage of incredible Windows technologies like WinUI3 and MSIX to target the 1 billion+ in-market Windows 10 devices, and to reach billions of other devices via Windows Virtual Desktop.
+
+* [Everything you need to know about WinUI](https://mybuild.microsoft.com/sessions/b0300eb4-a462-48ec-956d-7caa18470e3c?source=sessions) - (May 20, 2020) - WinUI is Microsoft’s UI framework of the future for every app on Windows, designed to work in both Universal (UWP) and Desktop (Win32) apps.  Come learn how WinUI provides a path forward for every Windows Developer, whether you’re using WinForms, WPF, MFC, native or .NET, and more!  Replays [Session B](https://mybuild.microsoft.com/sessions/7d5b56db-d367-43ac-9163-44de4e3919e8?source=sessions) and [Session 3](https://mybuild.microsoft.com/sessions/11720456-1481-4493-a2a2-d87d7985a540?source=sessions) also available.
 
 * [If I'm writing a new Windows client app today, what technology should I use? | One Dev Question](https://www.youtube.com/watch?v=uG0riz00i8s) - (April 9, 2020) - Some great insight and useful tips for building an app today from Kevin Gallo.
 
