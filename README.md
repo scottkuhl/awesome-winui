@@ -59,6 +59,8 @@ Articles are listed by newest date first.
 
 * [Announcing dual-screen preview SDKs and Microsoft 365 Developer Day](https://blogs.windows.com/windowsdeveloper/2020/01/22/announcing-dual-screen-preview-sdks-and-microsoft-365-developer-day/?WT.mc_id=DX_MVP4025064) - (January 22, 2020) - In November, we shared our vision for dual-screen devices and how this new device category will help people get more done on smaller and more mobile form factors. Today, we are excited to give you an update on how you can get started and optimize for dual-screen devices.
 
+* [Custom fonts in Uno Platform](https://blog.mzikmund.com/2020/01/custom-fonts-in-uno-platform/) - (January 16, 2020) - Custom fonts are super useful to make your application match company brand and to create vector-based font icons. Let’s take a look at how we can use custom fonts in UWP, Android, iOS, and WebAssembly with Uno Platform!
+
 ## Events
 
 Events are listed by newest date first.
