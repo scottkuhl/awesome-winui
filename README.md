@@ -138,7 +138,9 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [UWP Community // Launch 2020](https://medium.com/@Arlodottxt/uwp-community-launch-2020-1772efb1e382) - (June 9, 2020) -An annual event hosted by the UWP Community Discord server, where developers in the community collaborate on and Launch their new and refreshed Windows 10 apps.
+* [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020) -Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
+
+* [UWP Community // Launch 2020](https://medium.com/@Arlodottxt/uwp-community-launch-2020-1772efb1e382) - (June 9, 2020) - An annual event hosted by the UWP Community Discord server, where developers in the community collaborate on and Launch their new and refreshed Windows 10 apps.
 
 * [Help us improve WPF and UWP XAML designer](https://devblogs.microsoft.com/dotnet/help-us-improve-wpf-and-uwp-xaml-designer/) - (May 28, 2020) - We would like to make your experience developing WPF and UWP applications in Visual Studio better!
 
