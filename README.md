@@ -87,6 +87,8 @@ Podcasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Window and Application API Spec](https://github.com/microsoft/microsoft-ui-xaml-specs/blob/Win32/active/Win32/Window_and_Application_API_Spec.md) - (March 16, 2020) - This spec describes updates to the XAML Window and Application APIs to accommodate this move to support Desktop (win32) apps.
+
 * [Microsoft Emulator and Windows 10X Emulator Image (Preview) build 19578 available now!](https://blogs.windows.com/windowsdeveloper/2020/03/10/microsoft-emulator-and-windows-10x-emulator-image-preview-build-19578-available-now/?WT.mc_id=DX_MVP4025064) - (March 10, 2020) - Today we released new versions of both the Microsoft Emulator and the Windows 10X Emulator Image (Preview) to the Microsoft Store.
 
 * ['Developers have lost hope Microsoft will do the right thing'... Redmond urged to make WinUI cross-platform](https://www.theregister.com/2020/02/28/winui_cross_platform/) - (February 28, 2020) - Microsoft's roadmap for developing Windows applications is opposed by some programmers who want to see a cross-platform solution, rather than just being Windows-only.
