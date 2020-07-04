@@ -142,6 +142,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Highlighting dates in UWP CalendarView](https://blog.mzikmund.com/2020/07/highlighting-dates-in-uwp-calendarview/) - (July 1, 2020) - I have posted about UWP CalendarView control a while back. The previous post summarized how to customize calendar days while they are being assigned. A new StackOverflow question has prompted me to revisit this to show how already displayed dates can be adjusted as well.
+
 * [Announcing: Rapid XAML Toolkit release 0.10](https://www.mrlacey.com/2020/06/announcing-rapid-xaml-toolkit-release.html) - (June 30, 2020) - Yes, 0.10 means it's getting excitingly close to a full 1.0 release and the removal of the preview tag. Wider events and that some of what I'm trying to do with the toolkit has turned out to be much, much harder than I originally expected and means it's taking longer than I hoped but progress is being made.
 
 * [Future-proofing .NET application development with the Uno Platform](https://www.infoworld.com/article/3564790/future-proofing-net-application-development-with-the-uno-platform.html) - (June 30, 2020) - With support for WinUI 3.0, the cross-platform Uno development environment is an important alternative to Xamarin
