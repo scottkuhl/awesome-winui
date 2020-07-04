@@ -1,5 +1,7 @@
 # Awesome WinUI
 A collection of awesome resources for WinUI / Windows developers.
+[<img src="https://microsoft.github.io/microsoft-ui-xaml/img/winui-logo.png" align="right" width="170">](https://microsoft.github.io/microsoft-ui-xaml/)
+
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
