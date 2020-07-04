@@ -76,6 +76,8 @@ Events are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* ['Developers have lost hope Microsoft will do the right thing'... Redmond urged to make WinUI cross-platform](https://www.theregister.com/2020/02/28/winui_cross_platform/) - (February 28, 2020) - Microsoft's roadmap for developing Windows applications is opposed by some programmers who want to see a cross-platform solution, rather than just being Windows-only.
+
 * [Calling WinUI from Blazor App Hosted in WebView2](https://www.thomasclaudiushuber.com/2020/02/19/calling-winui-from-blazor-app-hosted-in-webview2/) - (February 19, 2020) - But can you also call from the hosted Blazor app into your WinUI app? Of course you can. To show you how it works, I’ve extended the application from the previous blog post.
 
 * [Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI](https://www.thomasclaudiushuber.com/2020/02/18/hosting-blazor-app-in-winui-3-with-webview-2-and-call-blazor-component-method-from-winui/) - (February 18, 2020) - I thought I give WebView2 a try, and hey, why not trying to host a web app in WebView2 that is built with my favorite Single Page Application (SPA) framework: Blazor! But just hosting would be easy. I want to call a method in the Blazor App from my WinUI app.
