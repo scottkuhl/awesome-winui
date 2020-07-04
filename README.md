@@ -55,6 +55,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 Articles are listed by newest date first.
 
+* [Uno Platform 2.0 RELOADED – GitPod Integration](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration/) - (January 23, 2020) - Uno Platform now provides integration with GitPod, the online development environment based on Theia (Alternative to VS Code) and Linux Docker containers.
+
 * [Usability Matters for the Surface Neo and the Surface Duo](https://www.mrlacey.com/2020/01/usability-matters-for-surface-neo-and.html) - (January 23, 2020) - Before the new surface devices arrive and trying to avoid the hype, in this post, I want to use the structure and pointers from the book ([Usability Matters](https://www.manning.com/books/usability-matters)) to highlight important areas about which to think.
 
 * [Announcing dual-screen preview SDKs and Microsoft 365 Developer Day](https://blogs.windows.com/windowsdeveloper/2020/01/22/announcing-dual-screen-preview-sdks-and-microsoft-365-developer-day/?WT.mc_id=DX_MVP4025064) - (January 22, 2020) - In November, we shared our vision for dual-screen devices and how this new device category will help people get more done on smaller and more mobile form factors. Today, we are excited to give you an update on how you can get started and optimize for dual-screen devices.
