@@ -131,6 +131,8 @@ Articles are listed by newest date first.
 
 * [Developing for all 1 billion Windows 10 devices and beyond](https://blogs.windows.com/windowsdeveloper/2020/05/19/developing-for-all-1-billion-windows-10-devices-and-beyond/?WT.mc_id=DX_MVP4025064) - (May 19, 2020) - Today, I will have the privilege of sharing how developers can build apps for modern work using Microsoft 365 and Windows platforms.
 
+* [Introducing Telerik UI for WinUI Preview](https://www.telerik.com/blogs/introducing-telerik-ui-for-winui-preview) - (May 19, 2020) - Microsoft just announced the availability of WinUI 3.0 Preview on Build 2020. We are adding to that the announcement of the release of Telerik UI for WinUI Preview.
+
 * [Introducing WinUI 3 Preview 1](https://blogs.windows.com/windowsdeveloper/2020/05/19/introducing-winui-3-preview-1/?WT.mc_id=DX_MVP4025064) - (May 19, 2020) - Today at Microsoft Build 2020 the WinUI team is excited to announce the latest version of WinUI 3 available for public preview: WinUI 3 Preview 1. This preview expands the world of WinUI to an even wider audience of developers – the previously-released WinUI 3 Alpha was only available to UWP app developers, but Preview 1 now enables WinUI usage in Desktop (Win32) apps as well!
 
 * [Project Reunion Is Microsoft’s New Attempt at Unifying Windows 10 App Development](https://www.thurrott.com/microsoft/235282/project-reunion-is-microsofts-new-attempt-at-unifying-windows-10-app-development) - (May 19, 2020) - At Build 2020, Microsoft is introducing a new vision for unifying app development for Windows 10. The company’s latest attempt at unifying the app development experience for Windows 10 is called Project Reunion.
