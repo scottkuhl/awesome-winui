@@ -127,6 +127,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Help us improve WPF and UWP XAML designer](https://devblogs.microsoft.com/dotnet/help-us-improve-wpf-and-uwp-xaml-designer/) - (May 28, 2020) - We would like to make your experience developing WPF and UWP applications in Visual Studio better!
+
 * [Microsoft brings WinUI to desktop apps: It's a landmark for Windows development, but it has taken far too long](https://www.theregister.com/2020/05/26/microsoft_winui_to_desktop/) - (May 26, 2020) - The look and feel of UWP without all the baggage.
 
 * [Project Reunion: Microsoft's unified app strategy is still missing one piece](https://www.zdnet.com/article/project-reunion-microsofts-unified-app-strategy-is-still-missing-one-piece/) - (May 26, 2020) - At last week's virtual Build 2020, Microsoft showed off its vision for Project Reunion, a new API that combines Win32 and the Universal Windows Platform. It's still missing the most important piece, however.
