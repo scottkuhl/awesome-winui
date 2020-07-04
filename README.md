@@ -108,6 +108,8 @@ Podcasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [WinUI NumberBox Control](https://www.reflectionit.nl/blog/2020/winui-numberbox-control) - (March 27, 2020) - If you write business apps, there are a lot of controls for data input: TextBox, CheckBox, ComboBox, DatePicker, ToggleSwitch, TimePicker, RadioButton, Slider, etc. I always wondered why there was no NumberBox. Numeric input is very common so it needs its own control for it. Luckily there is the Windows UI Library (WinUI), an open source project from Microsoft. I proposed the NumberBox last year and the team did a great job implementing it. It is released in version 2.3 and most of the issues are now solved. Time for a blog post showing of its features.
+
 * [Building Modern & Performant Desktop Apps—Is WinUI 3.0 the Way to Go?](https://www.telerik.com/blogs/building-modern-performant-desktop-apps-winui-30-the-way-to-go) - (March 23, 2020) - WinUI 3.0 is the hot new framework for desktop application development. In this post we’ll try to answer the questions “What is WinUI 3.0?”, “How different it is from WPF, UWP and WinForms?” and ultimately “What is the best framework for developing desktop applications?”
 
 * [Window and Application API Spec](https://github.com/microsoft/microsoft-ui-xaml-specs/blob/Win32/active/Win32/Window_and_Application_API_Spec.md) - (March 16, 2020) - This spec describes updates to the XAML Window and Application APIs to accommodate this move to support Desktop (win32) apps.
