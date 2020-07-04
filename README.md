@@ -35,6 +35,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=86000) Official documentation of WinUI.
 
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Whether you're just starting or an experienced professional, Microsoft's hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
+
 * [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/) - Official documentation of Universal Windows Platform, from Microsoft.
 
 * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - Official documentation of Windows Forms, from Microsoft.
