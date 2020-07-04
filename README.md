@@ -22,3 +22,10 @@ As of version 3.0 it has been decoupled from the underlying Windows development 
 ### What We Track
 
 This list focuses on libraries, articles, tutorials, books and other resources for building Windows application with WinUI.
+
+## Contents
+* [Tooling](#tooling)
+
+## Tooling
+
+* [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit/) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
