@@ -13,11 +13,19 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 # Upcoming Events
 
-WinUI July Community Call (July 15th, 2020 9:00 AM PDT)
+**WinUI July Community Call (July 15th, 2020 9:00 AM PDT)**
 
 This is the July edition of the monthly WinUI Community Call where we share the latest updates on our platform and answer all of your questions.
 
 [<img src="https://github.com/scottkuhl/awesome-winui/raw/master/Images/Community%20Call.png">](https://www.youtube.com/watch?v=lcnqqkYggCw&list=PLI_J2v67C23ZqsolUDaHoFkF1GKvGrttB&index=7)
+
+**UnoConf 2020 (August 12, 2020)**
+
+UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it.
+
+UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
+
+[<img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2020/06/18115223/Uno_Conf_Livestream_slimmer_V5.jpg">](https://platform.uno/blog/unoconf-2020-virtual-free-aug-12-2020-save-the-date/)
 
 
 ## Introduction
