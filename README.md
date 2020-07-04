@@ -142,6 +142,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Announcing: Rapid XAML Toolkit release 0.10](https://www.mrlacey.com/2020/06/announcing-rapid-xaml-toolkit-release.html) - (June 30, 2020) - Yes, 0.10 means it's getting excitingly close to a full 1.0 release and the removal of the preview tag. Wider events and that some of what I'm trying to do with the toolkit has turned out to be much, much harder than I originally expected and means it's taking longer than I hoped but progress is being made.
+
 * [Future-proofing .NET application development with the Uno Platform](https://www.infoworld.com/article/3564790/future-proofing-net-application-development-with-the-uno-platform.html) - (June 30, 2020) - With support for WinUI 3.0, the cross-platform Uno development environment is an important alternative to Xamarin
 
 * [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020) - Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
