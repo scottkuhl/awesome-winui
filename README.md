@@ -74,6 +74,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Project Reunion](https://github.com/microsoft/ProjectReunion) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/ProjectReunion?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ProjectReunion?style=flat-square&cacheSeconds=86000) Project Reunion is our vision for unifying and evolving the Windows developer platform to make it easier to build great apps that work across all the Windows 10 versions and devices people use.
 
+* [Legerity](https://github.com/MADE-Apps/legerity) - ![GitHub stars](https://img.shields.io/github/stars/MADE-Apps/legerity?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/MADE-Apps/legerity?style=flat-square&cacheSeconds=86000) Legerity is a framework for speeding up the development of automated UI testing with Appium and .NET!
+
 * [Telerik UI for WinUI](https://www.telerik.com/winui) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
 ## Tooling
@@ -140,7 +142,9 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020) -Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
+* [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020)  -Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
+
+* [Windows UI Testing With Legerity](https://www.jamescroft.co.uk/windows-ui-testing-with-legerity/) - (June 29, 2020) - Testing at the application’s UI level is often an afterthought for most projects. These tests usually put your application under the testing of how it would be used by a physical user.
 
 * [UWP Community // Launch 2020](https://medium.com/@Arlodottxt/uwp-community-launch-2020-1772efb1e382) - (June 9, 2020) - An annual event hosted by the UWP Community Discord server, where developers in the community collaborate on and Launch their new and refreshed Windows 10 apps.
 
