@@ -127,7 +127,9 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [Project Reunion Is Microsoft’s New Attempt at Unifying Windows 10 App Development]https://www.thurrott.com/microsoft/235282/project-reunion-is-microsofts-new-attempt-at-unifying-windows-10-app-development) - (May 19, 2020) -At Build 2020, Microsoft is introducing a new vision for unifying app development for Windows 10. The company’s latest attempt at unifying the app development experience for Windows 10 is called Project Reunion.
+* [Announcing Uno Platform 3.0 – Support for WinUI 3.0 Preview 1](https://platform.uno/blog/announcing-uno-platform-3-0-support-for-winui-3-0-preview-1/) - (May 19, 2020) - Today, the Uno Platform is adding support for WinUI 3.0 Preview, alongside WinUI 2/UWP and later. This allows applications to use newer APIs from Microsoft and create cross platforms apps. We’ve worked closely together with the WinUI team in order to be able to bring you Uno Platform 3.0 release at the same time WinUI 3.0 Preview 1 is being announced at Microsoft Build 2020 conference.
+
+* [Project Reunion Is Microsoft’s New Attempt at Unifying Windows 10 App Development](https://www.thurrott.com/microsoft/235282/project-reunion-is-microsofts-new-attempt-at-unifying-windows-10-app-development) - (May 19, 2020) - At Build 2020, Microsoft is introducing a new vision for unifying app development for Windows 10. The company’s latest attempt at unifying the app development experience for Windows 10 is called Project Reunion.
 
 * [UWP, WinUI and Uno Platform get Prism support thanks to Uno team OSS Contribution](https://platform.uno/blog/uwp-winui-and-uno-platform-get-prism-support-thanks-to-uno-team-oss-contribution/) - (April 27, 2020) - We are pleased to announce that Uno Platform team has provided the initial support for the Prism library.
 
