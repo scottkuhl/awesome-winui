@@ -24,10 +24,15 @@ As of version 3.0 it has been decoupled from the underlying Windows development 
 This list focuses on libraries, articles, tutorials, books and other resources for building Windows application with WinUI.
 
 ## Contents
+* [Libraries](#libraries)
 * [Tooling](#tooling)
+
+## Libraries
+
+* [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?style=flat-square&cacheSeconds=86000) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
 
 ## Tooling
 
-* [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit/) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
+* [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
-* [UWP Essentials](https://github.com/mrlacey/UwpEssentials/) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
+* [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
