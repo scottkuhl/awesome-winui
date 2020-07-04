@@ -68,6 +68,8 @@ Books are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI](https://www.thomasclaudiushuber.com/2020/02/18/hosting-blazor-app-in-winui-3-with-webview-2-and-call-blazor-component-method-from-winui/) - (February 18, 2020) - I thought I give WebView2 a try, and hey, why not trying to host a web app in WebView2 that is built with my favorite Single Page Application (SPA) framework: Blazor! But just hosting would be easy. I want to call a method in the Blazor App from my WinUI app.
+
 * [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
 
 * [Hinge angle sensor for Uno Platform dual-screen apps](https://blog.mzikmund.com/2020/02/hinge-angle-sensor-for-uno-platform-dual-screen-apps/) - (February 11, 2020) - Today, Uno Platform gets support for another unique aspect of the upcoming Surface devices – the hinge angle sensor, just in time for the Microsoft 365 Developer Day for dual-screen devices! So how does it work?
