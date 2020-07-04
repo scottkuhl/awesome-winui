@@ -138,6 +138,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [UWP Community // Launch 2020](https://medium.com/@Arlodottxt/uwp-community-launch-2020-1772efb1e382) - (June 9, 2020) -An annual event hosted by the UWP Community Discord server, where developers in the community collaborate on and Launch their new and refreshed Windows 10 apps.
+
 * [Help us improve WPF and UWP XAML designer](https://devblogs.microsoft.com/dotnet/help-us-improve-wpf-and-uwp-xaml-designer/) - (May 28, 2020) - We would like to make your experience developing WPF and UWP applications in Visual Studio better!
 
 * [Microsoft brings WinUI to desktop apps: It's a landmark for Windows development, but it has taken far too long](https://www.theregister.com/2020/05/26/microsoft_winui_to_desktop/) - (May 26, 2020) - The look and feel of UWP without all the baggage.
