@@ -63,6 +63,8 @@ Articles are listed by newest date first.
 
 * [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
 
+* [Advertising networks for UWP apps](https://blog.mzikmund.com/2020/02/advertising-networks-for-uwp-apps/) - (February 4, 2020) - Microsoft, unfortunately, threw in the proverbial towel with its Ad Monetization platform for UWP apps. While we are waiting for a more official and detailed statement and suggested transition path, what are the alternative advertising networks available for UWP we can use?
+
 * [Modern XAML Development - notes from SWETUGG](https://www.mrlacey.com/2020/02/modern-xaml-development-notes-from.html) - (February 4, 2020) - Today (at the time of posting) I'm talking in Stokholm about Modern XAML Development. Here for your simple consumption are links to all the things I talked about, demonstrated or otherwise mentioned.
 
 * [Surface Duo – WinUI TwoPaneView implementation via Uno Platform](https://platform.uno/blog/surface-duo-winui-twopaneview-implementation-via-uno-platform/) - (February 3, 2020) - Uno Platform is in the position to be able to use the controls from WinUI (Our #WinUIEverywhere vision), and Microsoft is making development in the open for such devices in the form of the TwoPaneView control which allows us to experiment with it early and often.
