@@ -27,7 +27,6 @@ UnoConf 2020 will bring together speakers from Microsoft, our core team and comm
 
 [<img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2020/06/18115223/Uno_Conf_Livestream_slimmer_V5.jpg">](https://platform.uno/blog/unoconf-2020-virtual-free-aug-12-2020-save-the-date/)
 
-
 ## Introduction
 
 ### What is WinUI?
@@ -44,12 +43,12 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [General](#general)
 * [Libraries](#libraries)
 * [Tooling](#tooling)
+* [Sample Apps](#sample-apps)
 * [Books](#books)
 * [Events](#events)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Articles](#articles)
-
 
 ## General
 
@@ -80,6 +79,10 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
+
+## Sample Apps
+
+* [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
 
 ## Books
 
