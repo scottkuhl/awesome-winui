@@ -142,7 +142,9 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020)  -Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
+* [Future-proofing .NET application development with the Uno Platform](https://www.infoworld.com/article/3564790/future-proofing-net-application-development-with-the-uno-platform.html) - (June 30, 2020) - With support for WinUI 3.0, the cross-platform Uno development environment is an important alternative to Xamarin
+
+* [What is Project Reunion?](https://github.com/microsoft/ProjectReunion/blob/master/docs/README.md) - (June 30, 2020) - Project Reunion is a set of libraries, frameworks, components, and tools that you can use in your apps to access powerful Windows platform functionality from all kinds of apps on many versions of Windows. Project Reunion combines the powers of Win32 native applications alongside modern API usage techniques, so your apps light up everywhere your users are.
 
 * [Windows UI Testing With Legerity](https://www.jamescroft.co.uk/windows-ui-testing-with-legerity/) - (June 29, 2020) - Testing at the application’s UI level is often an afterthought for most projects. These tests usually put your application under the testing of how it would be used by a physical user.
 
