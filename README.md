@@ -38,6 +38,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Whether you're just starting or an experienced professional, Microsoft's hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
 
+* [UWP Community](https://uwpcommunity.com/) - The homepage for the unofficial Discord server.
+
 * [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/) - Official documentation of Universal Windows Platform, from Microsoft.
 
 * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - Official documentation of Windows Forms, from Microsoft.
