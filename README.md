@@ -24,8 +24,13 @@ As of version 3.0 it has been decoupled from the underlying Windows development 
 This list focuses on libraries, articles, tutorials, books and other resources for building Windows application with WinUI.
 
 ## Contents
+* [General](#general)
 * [Libraries](#libraries)
 * [Tooling](#tooling)
+
+## General
+
+* [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - Official documentation of Windows Forms, from Microsoft.
 
 ## Libraries
 
