@@ -87,6 +87,8 @@ Podcasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Building Modern & Performant Desktop Apps—Is WinUI 3.0 the Way to Go?](https://www.telerik.com/blogs/building-modern-performant-desktop-apps-winui-30-the-way-to-go) - (March 23, 2020) - WinUI 3.0 is the hot new framework for desktop application development. In this post we’ll try to answer the questions “What is WinUI 3.0?”, “How different it is from WPF, UWP and WinForms?” and ultimately “What is the best framework for developing desktop applications?”
+
 * [Window and Application API Spec](https://github.com/microsoft/microsoft-ui-xaml-specs/blob/Win32/active/Win32/Window_and_Application_API_Spec.md) - (March 16, 2020) - This spec describes updates to the XAML Window and Application APIs to accommodate this move to support Desktop (win32) apps.
 
 * [Microsoft Emulator and Windows 10X Emulator Image (Preview) build 19578 available now!](https://blogs.windows.com/windowsdeveloper/2020/03/10/microsoft-emulator-and-windows-10x-emulator-image-preview-build-19578-available-now/?WT.mc_id=DX_MVP4025064) - (March 10, 2020) - Today we released new versions of both the Microsoft Emulator and the Windows 10X Emulator Image (Preview) to the Microsoft Store.
