@@ -63,7 +63,9 @@ Articles are listed by newest date first.
 
 * [Develop apps for Windows 10X dual-screen devices](https://docs.microsoft.com/en-us/dual-screen/windows/) - (February 11, 2020) - Download and install the Microsoft Emulator and tools to start developing and testing your apps for Windows 10X.
 
-* [Modern XAML Development - notes from SWETUGG](https://www.mrlacey.com/2020/02/modern-xaml-development-notes-from.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MattLacey+%28Matt+Lacey%3A+Thinking+out+loud%29) - (February 4, 2020) - Today (at the time of posting) I'm talking in Stokholm about Modern XAML Development. Here for your simple consumption are links to all the things I talked about, demonstrated or otherwise mentioned.
+* [Modern XAML Development - notes from SWETUGG](https://www.mrlacey.com/2020/02/modern-xaml-development-notes-from.html) - (February 4, 2020) - Today (at the time of posting) I'm talking in Stokholm about Modern XAML Development. Here for your simple consumption are links to all the things I talked about, demonstrated or otherwise mentioned.
+
+* [Surface Duo – WinUI TwoPaneView implementation via Uno Platform](https://platform.uno/blog/surface-duo-winui-twopaneview-implementation-via-uno-platform/) - (February 3, 2020) - Uno Platform is in the position to be able to use the controls from WinUI (Our #WinUIEverywhere vision), and Microsoft is making development in the open for such devices in the form of the TwoPaneView control which allows us to experiment with it early and often.
 
 * [Uno Platform 2.0 RELOADED – GitPod Integration](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration/) - (January 23, 2020) - Uno Platform now provides integration with GitPod, the online development environment based on Theia (Alternative to VS Code) and Linux Docker containers.
 
