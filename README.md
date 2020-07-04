@@ -94,4 +94,6 @@ Articles are listed by newest date first.
 
 Events are listed by newest date first.
 
+* [Community Call, February 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1972) - (February 19, 2020 9:00AM PDT) - We'll give a progress update on WinUI Desktop - Miguel (@marb2000) will be joining us in the studio to talk about topics like win32 support, desktop windowing, app model changes so that WinUI isn't dependent on UWP, etc.
+
 * [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365
