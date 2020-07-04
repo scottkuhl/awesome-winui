@@ -27,10 +27,10 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [General](#general)
 * [Libraries](#libraries)
 * [Tooling](#tooling)
-
 * [Books](#books)
-* [Articles](#articles)
 * [Events](#events)
+* [Articles](#articles)
+
 
 ## General
 
@@ -64,6 +64,14 @@ Books are listed by newest date first.
 
 * Learn WinUI 3.0 - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
 
+## Events
+
+Events are listed by newest date first.
+
+* [Community Call, February 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1972) - (February 19, 2020 9:00AM PDT) - We'll give a progress update on WinUI Desktop - Miguel (@marb2000) will be joining us in the studio to talk about topics like win32 support, desktop windowing, app model changes so that WinUI isn't dependent on UWP, etc.
+
+* [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365
+
 ## Articles
 
 Articles are listed by newest date first.
@@ -91,11 +99,3 @@ Articles are listed by newest date first.
 * [Announcing dual-screen preview SDKs and Microsoft 365 Developer Day](https://blogs.windows.com/windowsdeveloper/2020/01/22/announcing-dual-screen-preview-sdks-and-microsoft-365-developer-day/?WT.mc_id=DX_MVP4025064) - (January 22, 2020) - In November, we shared our vision for dual-screen devices and how this new device category will help people get more done on smaller and more mobile form factors. Today, we are excited to give you an update on how you can get started and optimize for dual-screen devices.
 
 * [Custom fonts in Uno Platform](https://blog.mzikmund.com/2020/01/custom-fonts-in-uno-platform/) - (January 16, 2020) - Custom fonts are super useful to make your application match company brand and to create vector-based font icons. Let’s take a look at how we can use custom fonts in UWP, Android, iOS, and WebAssembly with Uno Platform!
-
-## Events
-
-Events are listed by newest date first.
-
-* [Community Call, February 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1972) - (February 19, 2020 9:00AM PDT) - We'll give a progress update on WinUI Desktop - Miguel (@marb2000) will be joining us in the studio to talk about topics like win32 support, desktop windowing, app model changes so that WinUI isn't dependent on UWP, etc.
-
-* [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365
