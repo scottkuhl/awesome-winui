@@ -36,6 +36,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=86000) Official documentation of WinUI.
 
+* [Fluent Design System](https://www.microsoft.com/design/fluent/#/windows) - Make your apps feel as though they were designed with every Windows device in mind—PCs, phones, Xbox One, HoloLens, and more. Find the documentation, tools, and samples you need to get your apps published to the Microsoft Store.
+
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Whether you're just starting or an experienced professional, Microsoft's hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
 
 * [UWP Community](https://uwpcommunity.com/) - The homepage for the unofficial Discord server.
