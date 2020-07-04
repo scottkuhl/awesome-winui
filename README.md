@@ -87,6 +87,8 @@ Events are listed by newest date first.
 
 * [Community Call, May 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2437) - (May 20, 2020 9:00AM PDT) -  WinUI 3 Preview 1 capabilities, limitations, and roadmap updates w/ @ryandemopoulos. Quick mention of Windows Community Toolkit updates w/ @michael-hawker. Deep-dive: Preview 1 demo w/ @marb2000. Partner Spotlight: @dotMorten of Esri. Partner Spotlight: Uno Platform.
 
+* [Microsoft Build](https://mybuild.microsoft.com/) - (May 19 - 20, 2020) -  48-hours of non-stop developer goodness generates amazing content—and you helped bring it to life.
+
 * [Community Call, April 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2245) - (April 15, 2020 9:00AM PDT) - Status Report for WinUI 3. 
 We will be welcoming Ginny Caughey, who’ll be talking about her modernization plan that includes WPF in the future. So far, she’s used our Alpha to port over a UWP app to a WinUI 3 app in about an hour(!). @michael-hawker will be joining us to introduce the WCT, talk about how the relationship between the WCT and WinUI, and demoing exciting controls from the WCT. WinUI 2.4: HierarchicalNavigationView demo. WinUI 2.4: ProgressRing demo. WinUI 2.4: Radial Gradient Brush demo.
 
