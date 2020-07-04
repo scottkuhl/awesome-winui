@@ -39,6 +39,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Books](#books)
 * [Events](#events)
 * [Podcasts](#podcasts)
+* [Screencasts](#screencasts)
 * [Articles](#articles)
 
 
@@ -103,6 +104,12 @@ WinUI 3.0 Alpha status update. New feature discussions / demos - we'll demo some
 Podcasts are listed by newest date first.
 
 * [Ryan Demopoulos on WinUI](http://azuredevopspodcast.clear-measure.com/ryan-demopoulos-on-winui-episode-80) - (March 16 2020) - The Azure DevOps Podcast - In this episode, Jeffrey and Ryan discuss WinUI in-depth. Ryan explains what it is, the changes and developments he has seen (and been a part of) over the course of his career, where he sees it heading in 10 years time, details of the release roadmap, cross-platform development, what the team is currently working on — and a whole lot more!
+
+## Screencasts
+
+Screencasts are listed by newest date first.
+
+* [Is Microsoft promoting UWP, Win32, or Web? | One Dev Question](https://www.youtube.com/watch?v=DUTI6W87OuE) - (april 7, 2020) - So UWP? Or Win32?  Or the Web?  What should you use for your next app?  Kevin Gallo, @kevintgallo, explains in today's One Dev Question.
 
 ## Articles
 
