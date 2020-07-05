@@ -80,6 +80,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 ## Tooling
 
+* [XAML Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/Xaml-Controls-Gallery?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/Xaml-Controls-Gallery?style=flat-square&cacheSeconds=86000) Shows all of the XAML controls in an interactive format. This app is the interactive companion to the Fluent Design Guidelines and shows the usage of both UWP Xaml APIs and Windows UI Toolkit APIs.
+
 * [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?style=flat-square&cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
