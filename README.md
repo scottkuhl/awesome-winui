@@ -112,6 +112,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [UWP Demo for Insider Dev Tour 2019](https://github.com/microsoft/InsiderDevTourDemos19/tree/master/Sessions/ui) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/InsiderDevTourDemos19?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/InsiderDevTourDemos19?style=flat-square&cacheSeconds=86000) This repo contains a demo UWP app that is built for demostrating rich controls and libraries from Windows UI Library and Windows Community Toolkit.
 
+* [Contoso Insurance UWP App](https://github.com/microsoft/WDD-Spring-2018) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/WDD-Spring-2018?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/WDD-Spring-2018?style=flat-square&cacheSeconds=86000) This UWP app was designed to showcase how Fluent Design, Windows Timeline and Adaptive Cards work together on the Windows Developer Day 2018.
+
 * [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
 
 ## Books
