@@ -88,6 +88,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
 
+* [XAML Studio](https://www.microsoft.com/en-us/garage/profiles/xaml-studio/) - XAML Studio, a Microsoft Garage project will help you rapidly prototype UWP XAML that can be easily copied into your app in Visual Studio. XAML Studio lets you preview your XAML code in real-time and interact with the result just like it was running in your own app!
+
 ## Sample Apps
 
 * [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?style=flat-square&cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
