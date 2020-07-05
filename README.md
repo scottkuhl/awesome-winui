@@ -52,7 +52,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 ## General
 
-* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=86000) Official documentation of WinUI.  A [demo app](https://www.microsoft.com/en-us/p/windows-community-toolkit-sample-app/9nblggh4tlcq?rtc=1&activetab=pivot:overviewtab) is also available.
+* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?style=flat-square&cacheSeconds=86000) Official documentation of WinUI.  A [demo app](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) is also available.
 
 * [Fluent Design System](https://www.microsoft.com/design/fluent/#/windows) - Make your apps feel as though they were designed with every Windows device in mind—PCs, phones, Xbox One, HoloLens, and more. Find the documentation, tools, and samples you need to get your apps published to the Microsoft Store.
 
