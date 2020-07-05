@@ -88,6 +88,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?style=flat-square&cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
 
+* [UWP Resources Gallery](https://www.microsoft.com/en-us/p/uwp-resources-gallery/9pjjl433vx9r?rtc=2&activetab=pivot:overviewtab) - This app aims to provide an interactive demo of common UWP resources such as the Segoe MDL2 icons, system colors and system brushes.
+
 * [XAML Studio](https://www.microsoft.com/en-us/garage/profiles/xaml-studio/) - XAML Studio, a Microsoft Garage project will help you rapidly prototype UWP XAML that can be easily copied into your app in Visual Studio. XAML Studio lets you preview your XAML code in real-time and interact with the result just like it was running in your own app!
 
 ## Sample Apps
