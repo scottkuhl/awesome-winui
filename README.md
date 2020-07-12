@@ -9,6 +9,8 @@ A collection of awesome resources for WinUI / Windows developers.
 
 We use Releases to alert of new content, add a **Watch** to **Releases only** to get regular updates of new content.
 
+If you are looking for WinUI 3.0 content look for this badge: [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/)
+
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/scottkuhl/awesome-winui/blob/master/contributing.md) pages first.
 
 # Upcoming Events
@@ -52,7 +54,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 ## General
 
-* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) Official documentation of WinUI.  A [demo app](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) is also available.
+* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Official documentation of WinUI.  A [demo app](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) is also available.
 
 * [Fluent Design System](https://www.microsoft.com/design/fluent/#/windows) - Make your apps feel as though they were designed with every Windows device in mind—PCs, phones, Xbox One, HoloLens, and more. Find the documentation, tools, and samples you need to get your apps published to the Microsoft Store.
 
@@ -68,17 +70,17 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 ## Libraries
 
-* [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit/issues/3295) - ![GitHub stars](https://img.shields.io/github/stars/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) The Windows Community Toolkit has been working alongside the WinUI team to also make sure the Toolkit works on WinUI 3! We're happy to announce that we're also shipping a preview of the toolkit that works on top of this WinUI 3 Preview 1 the same day!
+* [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit/issues/3295) - ![GitHub stars](https://img.shields.io/github/stars/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) The Windows Community Toolkit has been working alongside the WinUI team to also make sure the Toolkit works on WinUI 3! We're happy to announce that we're also shipping a preview of the toolkit that works on top of this WinUI 3 Preview 1 the same day!
 
-* [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
+* [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
 
-* [Project Reunion](https://github.com/microsoft/ProjectReunion) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/ProjectReunion?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ProjectReunion?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) Project Reunion is our vision for unifying and evolving the Windows developer platform to make it easier to build great apps that work across all the Windows 10 versions and devices people use.
+* [Project Reunion](https://github.com/microsoft/ProjectReunion) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/ProjectReunion?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ProjectReunion?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Project Reunion is our vision for unifying and evolving the Windows developer platform to make it easier to build great apps that work across all the Windows 10 versions and devices people use.
 
 * [Windows task snippets](https://github.com/microsoft/Windows-task-snippets) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/Windows-task-snippets?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/Windows-task-snippets?cacheSeconds=86000) This repo collects snippets of ready-to-use code that accomplish small but useful tasks of interest to Universal Windows Platform (UWP) app developers. These snippets represent simple solutions to common problems, and simple recipes to help you implement new app features.
 
 * [Legerity](https://github.com/MADE-Apps/legerity) - ![GitHub stars](https://img.shields.io/github/stars/MADE-Apps/legerity?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/MADE-Apps/legerity?cacheSeconds=86000) Legerity is a framework for speeding up the development of automated UI testing with Appium and .NET!
 
-* [Telerik UI for WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
+* [Telerik UI for WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
 ## Tooling
 
@@ -122,7 +124,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Contoso Insurance UWP App](https://github.com/microsoft/WDD-Spring-2018) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/WDD-Spring-2018?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/WDD-Spring-2018?cacheSeconds=86000) This UWP app was designed to showcase how Fluent Design, Windows Timeline and Adaptive Cards work together on the Windows Developer Day 2018.
 
-* [Ch9](https://github.com/unoplatform/Uno.Ch9) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Ch9?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Ch9?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) Ch9 is a demo app which showcases the power of using WinUI and Uno Platform for developing single-codebase, cross-platform applications for Windows, iOS, Android and WebAssembly. It uses the publicly-available video feed from Microsoft's Channel 9 for content.  The app is also available in App Stores ([Microsoft](https://www.microsoft.com/store/productId/9NL3GNG31TMK), [Apple](https://apps.apple.com/us/app/ch9/id1512235875?ls=1), [Google](https://play.google.com/store/apps/details?id=uno.platform.ch9&hl=en)).
+* [Ch9](https://github.com/unoplatform/Uno.Ch9) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Ch9?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Ch9?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Ch9 is a demo app which showcases the power of using WinUI and Uno Platform for developing single-codebase, cross-platform applications for Windows, iOS, Android and WebAssembly. It uses the publicly-available video feed from Microsoft's Channel 9 for content.  The app is also available in App Stores ([Microsoft](https://www.microsoft.com/store/productId/9NL3GNG31TMK), [Apple](https://apps.apple.com/us/app/ch9/id1512235875?ls=1), [Google](https://play.google.com/store/apps/details?id=uno.platform.ch9&hl=en)).
 
 * [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
 
@@ -130,7 +132,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 Books are listed by newest date first.
 
-* Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/Version-V3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
+* Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
 
 ## Events
 
