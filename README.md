@@ -188,7 +188,7 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [New Preview of WinUI 3, Native UI Platform of Windows, Fixes Stuff](https://www.thurrott.com/dev/237922/winui-3-is-delayed-to-spring-2021) - (July 16, 2020) - With the release today of WinUI 3 Preview 2, Microsoft has effectively delayed the final release from November 2020 to sometime in early 2021.
+* [New Preview of WinUI 3, Native UI Platform of Windows, Fixes Stuff](https://visualstudiomagazine.com/articles/2020/07/17/winui-3-preview-2.aspx) - (July 17, 2020) - Microsoft shipped preview 2 of WinUI, the UI framework that uses Fluent Design to provide a native user experience (UX) framework for both Windows Desktop (Win32) and Universal Windows Platform (UWP) applications, focusing on stability and bug fixes.
 
 * [WinUI 3 is Delayed to Spring 2021](https://www.thurrott.com/dev/237922/winui-3-is-delayed-to-spring-2021) - (July 16, 2020) - With the release today of WinUI 3 Preview 2, Microsoft has effectively delayed the final release from November 2020 to sometime in early 2021.
 
