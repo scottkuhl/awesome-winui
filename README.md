@@ -188,6 +188,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Announcing WinUI 3 Preview 2](https://blogs.windows.com/windowsdeveloper/2020/07/15/announcing-winui-3-preview-2/) - (July 15, 2020) - WinUI 3 Preview 2 was a quality and stability-driven release. It builds directly on Preview 1 by fixing quite a few critical and serious bugs that didn’t make the cut in time for our release at Build 2020 two months ago. The team wanted to put together a small release post-Build to make sure that WinUI 3 is stable and easy to use for everyone.
+
 * [A deep-dive into WinUI 3 in desktop apps](https://blogs.windows.com/windowsdeveloper/2020/07/07/a-deep-dive-into-winui-3-in-desktop-apps/) - (July 7, 2020) - In this blog post I’m going to focus on building a desktop app with WinUI 3 Preview 1 and .NET, leaving C++ for future posts.
 
 * [Highlighting dates in UWP CalendarView](https://blog.mzikmund.com/2020/07/highlighting-dates-in-uwp-calendarview/) - (July 1, 2020) - I have posted about UWP CalendarView control a while back. The previous post summarized how to customize calendar days while they are being assigned. A new StackOverflow question has prompted me to revisit this to show how already displayed dates can be adjusted as well.
