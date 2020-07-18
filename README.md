@@ -168,6 +168,8 @@ Podcasts are listed by newest date first.
 
 Screencasts are listed by newest date first.
 
+* [App Development Community Standup: Project Reunion Update](https://www.youtube.com/watch?v=50PGkfLNDoQ) - (July 17, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn more about how to contribute to Project Reunion, our next steps, and ask your questions live.
+
 * [Building apps for 1 billion Windows 10 Desktops and expanding reach even further with Windows Virtual Desktop](https://mybuild.microsoft.com/sessions/db7c338d-3ba6-4c89-8713-2fdf5807a3b6?source=sessions) - (May 20, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-38%20min-%230094FF?cacheSeconds=maxAge&logo=microsoft) Learn how to take advantage of incredible Windows technologies like WinUI3 and MSIX to target the 1 billion+ in-market Windows 10 devices, and to reach billions of other devices via Windows Virtual Desktop.
 
 * [Fluent Design System - Building apps that feel natural on every device](https://mybuild.microsoft.com/sessions/f6c1b5fc-050f-4b23-bcab-498a0777bf79?source=sessions) - (May 20, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?cacheSeconds=maxAge&logo=microsoft) Leverage Microsoft 365 UI libraries to efficiently build your own productivity UX across devices and platforms using Fluent UI React, React Native, Mobile, and WinUI open source control libraries. Get a sneak peek of our plans for the Fluent Design System.
