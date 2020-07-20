@@ -188,6 +188,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [GitHub Actions for UWP apps – the Good, the Bad and the Ugly](http://www.dotnetapp.com/github-actions-for-uwp-apps-the-good-and-the-bad-and-the-ugly/) - (July 17, 2020) - I created a blank UWP app that is available at my GitHub. My Release Builder workflow allows the creation of a release version of a UWP app ready that can be submitted to Partner Center.
+
 * [New Preview of WinUI 3, Native UI Platform of Windows, Fixes Stuff](https://visualstudiomagazine.com/articles/2020/07/17/winui-3-preview-2.aspx) - (July 17, 2020) - Microsoft shipped preview 2 of WinUI, the UI framework that uses Fluent Design to provide a native user experience (UX) framework for both Windows Desktop (Win32) and Universal Windows Platform (UWP) applications, focusing on stability and bug fixes.
 
 * [Microsoft updates its 'Project Reunion' unified Windows platform with WinUI 3 Preview 2](https://www.zdnet.com/article/microsoft-updates-its-project-reunion-unified-windows-platform-with-winui-3-preview-2/) - (July 16, 2020) -  Microsoft is aiming to release a couple more WinUI previews later this year and plans to open source the WinUI 3 code in November.
