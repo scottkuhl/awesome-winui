@@ -132,6 +132,8 @@ Books are listed by newest date first.
 
 Events are listed by newest date first.
 
+* [App Development Community Standup: Project Reunion Update](https://www.youtube.com/watch?v=50PGkfLNDoQ) - (July 17, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn more about how to contribute to Project Reunion, our next steps, and ask your questions live.
+
 * [Community Call, July 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2867) - (July 15, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Intro, Updates on WinUI 3.  Guest Spotlight: Project Reunion and WinUI. Guest Spotlight: The WPF Roadmap for 2020-2021. Q&A
 
 * [Community Call, June 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2649) - (June 17, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Status Update on WinUI. Community Spotlight: Arlo to speak about the UWP Community Discord Launch 2020 effort. Ecosystem Spotlight: Telerik - Developer Advocate Sam to speak all about Telerik and demo some of their exciting features.
