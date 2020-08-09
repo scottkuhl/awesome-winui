@@ -202,6 +202,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Syncfusion’s First Control for Uno Platform: Charts](https://www.syncfusion.com/blogs/post/syncfusions-first-control-for-uno-platform-charts.aspx) - (August 5, 2020) - Syncfusion is happy to reveal the availability of its very first control for the Uno Platform, the Charts control. In this blog, we will provide a brief introduction to the Uno Platform, the key features of our Charts control, followed by the steps to integrate our Charts control in an Uno Platform application.
+
 * [GitHub Actions for UWP apps – the Good, the Bad and the Ugly](http://www.dotnetapp.com/github-actions-for-uwp-apps-the-good-and-the-bad-and-the-ugly/) - (July 17, 2020) - I created a blank UWP app that is available at my GitHub. My Release Builder workflow allows the creation of a release version of a UWP app ready that can be submitted to Partner Center.
 
 * [New Preview of WinUI 3, Native UI Platform of Windows, Fixes Stuff](https://visualstudiomagazine.com/articles/2020/07/17/winui-3-preview-2.aspx) - (July 17, 2020) - Microsoft shipped preview 2 of WinUI, the UI framework that uses Fluent Design to provide a native user experience (UX) framework for both Windows Desktop (Win32) and Universal Windows Platform (UWP) applications, focusing on stability and bug fixes.
