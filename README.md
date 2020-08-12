@@ -148,6 +148,7 @@ Books are listed by newest date first.
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d74b374-2335-448d-9e3d-f7f27841ef04-profile_image-70x70.png">](https://www.twitch.tv/xamlllama) 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2d44fe99-1788-4b54-a230-06ddabe0a97a-profile_image-70x70.png">](https://www.twitch.tv/visualstudio) 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e98df394-1bee-43c0-9f5f-78a63148a84b-profile_image-70x70.png">](https://www.twitch.tv/dotnetnorthlive) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9590f1ae-c091-4bba-b07c-2bbc3400ac28-profile_image-70x70.png">](https://www.twitch.tv/martinzikmund) 
 
 ## Events
 
