@@ -40,7 +40,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Libraries](#libraries)
 * [Tooling](#tooling)
 * [Sample Apps](#sample-apps)
-* [Books](#books)
+* [Education](#education)
 * [Channels](#channels)
 * [Events](#events)
 * [Podcasts](#podcasts)
@@ -137,9 +137,9 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Ch9](https://github.com/unoplatform/Uno.Ch9) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Ch9?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Ch9?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Ch9 is a demo app which showcases the power of using WinUI and Uno Platform for developing single-codebase, cross-platform applications for Windows, iOS, Android and WebAssembly. It uses the publicly-available video feed from Microsoft's Channel 9 for content.  The app is also available in App Stores ([Microsoft](https://www.microsoft.com/store/productId/9NL3GNG31TMK), [Apple](https://apps.apple.com/us/app/ch9/id1512235875?ls=1), [Google](https://play.google.com/store/apps/details?id=uno.platform.ch9&hl=en)).
 
-## Books
+## Education
 
-Books are listed by newest date first.
+Education are listed by newest date first.
 
 * Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
 
