@@ -15,13 +15,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 # Upcoming Events
 
-**UnoConf 2020 (August 12, 2020)**
+**Microsoft Ignite (September 22-24, 2020**
 
-UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it.
+Microsoft Ignite will be launched as a complimentary digital event experience this September. Join us to learn innovative ways to build solutions, migrate and manage your infrastructure, and connect with Microsoft experts and other technology professionals from around the globe.
 
-UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
+[<img src="https://mediusprodstatic.studios.ms/video-26007/thumbnail.jpg?sv=2018-03-28&sr=c&sig=uX9XvA3ycaiizLPKFqjhco%2FBb1g0X9ShgdoMEMC3AbQ%3D&se=2024-11-06T04%3A46%3A39Z&sp=r">](https://www.microsoft.com/en-us/ignite)
 
-[<img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2020/06/18115223/Uno_Conf_Livestream_slimmer_V5.jpg">](https://platform.uno/blog/unoconf-2020-virtual-free-aug-12-2020-save-the-date/)
 
 ## Introduction
 
