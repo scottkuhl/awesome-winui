@@ -157,6 +157,8 @@ Education are listed by newest date first.
 
 Events are listed by newest date first.
 
+* [UnoConf](https://unoconf.com/) - (August 12, 2020) -  An online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it. UnoConf 2020 brings together speakers from Microsoft, our core team and community for a ½ day online event.
+
 * [Microsoft Build](https://mybuild.microsoft.com/) - (May 19 - 20, 2020) -  48-hours of non-stop developer goodness generates amazing content—and you helped bring it to life.
 
 * [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365.
