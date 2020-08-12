@@ -41,6 +41,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Tooling](#tooling)
 * [Sample Apps](#sample-apps)
 * [Books](#books)
+* [Channels](#channels)
 * [Events](#events)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
@@ -139,6 +140,12 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 Books are listed by newest date first.
 
 * Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
+
+## Channels
+
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d74b374-2335-448d-9e3d-f7f27841ef04-profile_image-70x70.png">](https://www.twitch.tv/xamlllama) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2d44fe99-1788-4b54-a230-06ddabe0a97a-profile_image-70x70.png">](https://www.twitch.tv/visualstudio) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e98df394-1bee-43c0-9f5f-78a63148a84b-profile_image-70x70.png">](https://www.twitch.tv/dotnetnorthlive) 
 
 ## Events
 
