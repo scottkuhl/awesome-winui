@@ -151,31 +151,9 @@ Books are listed by newest date first.
 
 Events are listed by newest date first.
 
-**WinUI Community Call Occurs the 3rd Wednesday of every month at 9:00AM PDT**
-
-[<img src="https://github.com/scottkuhl/awesome-winui/blob/master/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
-
-* [App Development Community Standup: Project Reunion Update](https://www.youtube.com/watch?v=50PGkfLNDoQ) - (July 17, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn more about how to contribute to Project Reunion, our next steps, and ask your questions live.
-
-* [Community Call, July 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2867) - (July 15, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Intro, Updates on WinUI 3.  Guest Spotlight: Project Reunion and WinUI. Guest Spotlight: The WPF Roadmap for 2020-2021. Q&A
-
-* [Community Call, June 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2649) - (June 17, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Status Update on WinUI. Community Spotlight: Arlo to speak about the UWP Community Discord Launch 2020 effort. Ecosystem Spotlight: Telerik - Developer Advocate Sam to speak all about Telerik and demo some of their exciting features.
-
-* [Community Call, May 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2437) - (May 20, 2020 9:00AM PDT) -  ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) WinUI 3 Preview 1 capabilities, limitations, and roadmap updates w/ @ryandemopoulos. Quick mention of Windows Community Toolkit updates w/ @michael-hawker. Deep-dive: Preview 1 demo w/ @marb2000. Partner Spotlight: @dotMorten of Esri. Partner Spotlight: Uno Platform.
-
 * [Microsoft Build](https://mybuild.microsoft.com/) - (May 19 - 20, 2020) -  48-hours of non-stop developer goodness generates amazing content—and you helped bring it to life.
 
-* [Community Call, April 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2245) - (April 15, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-94%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Status Report for WinUI 3. 
-We will be welcoming Ginny Caughey, who’ll be talking about her modernization plan that includes WPF in the future. So far, she’s used our Alpha to port over a UWP app to a WinUI 3 app in about an hour(!). @michael-hawker will be joining us to introduce the WCT, talk about how the relationship between the WCT and WinUI, and demoing exciting controls from the WCT. WinUI 2.4: HierarchicalNavigationView demo. WinUI 2.4: ProgressRing demo. WinUI 2.4: Radial Gradient Brush demo.
-
-* [Community Call, March 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2104) - (March 18, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-65%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Quick intro/recap on WinUI. Community Spotlight: TabView updates & sample demo with Marcel (@chingucoding) and Steven (@stmoy). Brief update on this month's progress Deep-dive with @ryandemopoulos: Demystifying how WinUI 3 relates to Desktop Apps, Win32, UWP, WinUI 2, and other frameworks like Xamarin.Forms and React Native.
-
-* [Community Call, February 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1972) - (February 19, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) We'll give a progress update on WinUI Desktop - Miguel (@marb2000) will be joining us in the studio to talk about topics like win32 support, desktop windowing, app model changes so that WinUI isn't dependent on UWP, etc.
-
 * [Microsoft 365 Developer Day](https://developer.microsoft.com/en-us/microsoft-365/virtual-events) - (February 11th, 2020 8:30AM PDT) - Focused on dual-screen experiences. The keynote and sessions will show how to: Get the most out of these SDKs and emulators, Use cross platform tools and languages, Design apps for dual-screen devices, Build dual-screen experiences on the web, Connect your apps with Microsoft 365.
-
-* [Community Call, January 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/1857) - (January 22, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) WinUI 2.3 release, 2.4 preview
-WinUI 3.0 Alpha status update. New feature discussions / demos - we'll demo some new WinUI 2 and 3 stuff, including some app samples, ProgressRing updates and the Chromium WebView control coming in WinUI 3
 
 ## Podcasts
 
@@ -194,6 +172,10 @@ Podcasts are listed by newest date first.
 ## Screencasts
 
 Screencasts are listed by newest date first.
+
+**WinUI Community Call Occurs the 3rd Wednesday of every month at 9:00AM PDT**
+
+[<img src="https://github.com/scottkuhl/awesome-winui/blob/master/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
 
 * [Come meet the new .NET Standard MVVM](https://www.twitch.tv/videos/707332546) - (August 11, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
 
