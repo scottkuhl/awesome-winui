@@ -144,6 +144,10 @@ Books are listed by newest date first.
 
 Events are listed by newest date first.
 
+**WinUI Community Call Occurs the 3rd Wednesday of every month at 9:00AM PDT**
+
+[<img src="https://github.com/scottkuhl/awesome-winui/blob/master/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
+
 * [App Development Community Standup: Project Reunion Update](https://www.youtube.com/watch?v=50PGkfLNDoQ) - (July 17, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn more about how to contribute to Project Reunion, our next steps, and ask your questions live.
 
 * [Community Call, July 2020](https://github.com/microsoft/microsoft-ui-xaml/issues/2867) - (July 15, 2020 9:00AM PDT) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Intro, Updates on WinUI 3.  Guest Spotlight: Project Reunion and WinUI. Guest Spotlight: The WPF Roadmap for 2020-2021. Q&A
