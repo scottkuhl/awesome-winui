@@ -142,6 +142,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 Education are listed by newest date first.
 
 * Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
+* [Introduction to Uno Platform](https://www.udemy.com/course/introduction-to-uno-platform/?referralCode=C9FE308096EADFB5B661) - (August 2020) - Christian Findlay, Udemy - Build Single-Source WebAssembly, Mobile and Desktop Apps with C#.
 
 ## Channels
 
