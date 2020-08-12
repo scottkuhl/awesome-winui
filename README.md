@@ -195,7 +195,9 @@ Podcasts are listed by newest date first.
 
 Screencasts are listed by newest date first.
 
-* [Highlights: WinUI 3 & the Windows Community Toolkit Preview](https://www.twitch.tv/videos/700998018) - (August 4, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-52%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
+* [Come meet the new .NET Standard MVVM](https://www.twitch.tv/videos/707332546) - (August 11, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
+
+* [WinUI 3 & the Windows Community Toolkit Preview](https://www.twitch.tv/videos/700998018) - (August 4, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-52%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
 
 * [App Development Community Standup: Project Reunion Update](https://www.youtube.com/watch?v=50PGkfLNDoQ) - (July 17, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn more about how to contribute to Project Reunion, our next steps, and ask your questions live.
 
