@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [ANNOUNNCING: Uno Platform 3.0 – Linux Support, Fluent, Material and more.](https://platform.uno/blog/announncing-uno-platform-3-0-linux-support-fluent-material-and-more/) - (August 13, 2020) - Today, at our annual UnoConf conference we announced several new major advancements and have laid out the vision for Uno Platform in H2 2020 and beyond. Our vision is to enable you to develop pixel-perfect, multi-platform applications using C# and WinUI. The 3.0 release brings us ever so closer to that vision.
+
 * [Syncfusion’s First Control for Uno Platform: Charts](https://www.syncfusion.com/blogs/post/syncfusions-first-control-for-uno-platform-charts.aspx) - (August 5, 2020) - Syncfusion is happy to reveal the availability of its very first control for the Uno Platform, the Charts control. In this blog, we will provide a brief introduction to the Uno Platform, the key features of our Charts control, followed by the steps to integrate our Charts control in an Uno Platform application.
 
 * [GitHub Actions for UWP apps – the Good, the Bad and the Ugly](http://www.dotnetapp.com/github-actions-for-uwp-apps-the-good-and-the-bad-and-the-ugly/) - (July 17, 2020) - I created a blank UWP app that is available at my GitHub. My Release Builder workflow allows the creation of a release version of a UWP app ready that can be submitted to Partner Center.
