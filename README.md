@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Bring the best of the Web to your .NET desktop applications with WebView2](https://devblogs.microsoft.com/dotnet/bring-the-best-of-the-web-to-your-net-desktop-applications-with-webview2/) - (August 19, 2020) - Last year at Build, we introduced WebView2, a browser control that renders web content (HTML / CSS / JavaScript) with the new Chromium-based Microsoft Edge. It was originally limited in scope to C/C++ applications. Today, we are happy to announce the release of the WebView2 preview for .NET applications! WebView2 is available for both .NET Core and .NET Framework. It can be used inside of WPF, Windows Forms and WinUI 3.0 applications all the way down to Windows 7.
+
 * [Putting “Universal” back into UWP](https://medium.com/@Arlodottxt/putting-universal-back-into-uwp-d2e5a8099bc1) - (August 18, 2020) - As the UWP dream dwindles, Uno picks up the torch and takes it to new heights.
 
 * [Now Out: Uno Platform 3.0 (C# + WinUI), Previewing Linux Support](https://visualstudiomagazine.com/articles/2020/08/18/uno-platform-3-0.aspx?m=1) - (August 18, 2020) - With an original focus on creating Universal Windows Platform (UWP) mobile apps, the Uno Platform is described as a UWP bridge that allows UWP-based code to run on Windows, WebAssembly, iOS, macOS, Android and Linux. 
