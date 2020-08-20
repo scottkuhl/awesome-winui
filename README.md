@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Putting “Universal” back into UWP](https://medium.com/@Arlodottxt/putting-universal-back-into-uwp-d2e5a8099bc1) - (August 18, 2020) - As the UWP dream dwindles, Uno picks up the torch and takes it to new heights.
+
 * [Now Out: Uno Platform 3.0 (C# + WinUI), Previewing Linux Support](https://visualstudiomagazine.com/articles/2020/08/18/uno-platform-3-0.aspx?m=1) - (August 18, 2020) - With an original focus on creating Universal Windows Platform (UWP) mobile apps, the Uno Platform is described as a UWP bridge that allows UWP-based code to run on Windows, WebAssembly, iOS, macOS, Android and Linux. 
 
 * [UnoConf 2020](https://blog.mzikmund.com/2020/08/unoconf-2020/) - (August 18, 2020) - The second year of the official Uno Platform developer conference UnoConf was held on 12th August 2020. As opposed to last year’s edition, we couldn’t enjoy the beauty and culinary variety that is Montréal, as COVID-19 made sure to turn the event into a virtual-only conference. But even with this limitation UnoConf 2020 has easily beaten the high bar set by last year’s event and was definitely my favourite virtual conference so far! This article is my summary of the whole event but if you happened to miss it, don’t hesitate to play it back in all its glory at YouTube or with the handy embedded player below. Included in the article are also links to specific timestamps for each of the sessions.
