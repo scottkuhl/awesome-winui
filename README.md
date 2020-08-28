@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [App First Run Detection with Uno Platform and UWP](https://blog.mzikmund.com/2020/08/app-first-run-detection-with-uno-platform-and-uwp/) - (August 27, 2020) - Recently, James Montemagno published a blog post about the detection of first app run with Xamarin.Essentials. I thought it would be interesting to write a post about how the same would be accomplished with Uno Platform and UWP.
+
 * [How to Move Uno Platform Pages to a Multi-Targeting Library](https://christianfindlay.com/2020/08/25/uno-multitargeting/) - (August 25, 2020) - You can move Uno Platform pages and other code into a multi-targeted library that you can reference from the Uno Platform head projects. This is much more convenient than using Visual Studio Shared libraries. Shared libraries don’t seem to have full support in Visual Studio, and some features like quick refactors often don’t work. This article briefly explains what I did to get this working. I completely removed the shared library in my sample.
 
 * [Using WebAssembly Modules in C#](https://platform.uno/blog/using-webassembly-modules-in-c/) - (August 24, 2020) - This article covers implementing custom module validation in an ASP.NET Core MVC web application, using Emscripten to create a WebAssembly module that can be used outside the browser, and using WebAssembly modules in your C# code.
