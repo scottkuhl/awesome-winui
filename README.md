@@ -206,7 +206,9 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
-* [Using WebAssembly Modules in C#](https://platform.uno/blog/using-webassembly-modules-in-c/) - (August 24, 2020) - This article covers implementing custom module validation in an ASP.NET Core MVC web application, using Emscripten to create a WebAssembly module that can be used outside the browser, and using WebAssembly modules in your C# code
+* [How to Move Uno Platform Pages to a Multi-Targeting Library](https://christianfindlay.com/2020/08/25/uno-multitargeting/) - (August 25, 2020) - You can move Uno Platform pages and other code into a multi-targeted library that you can reference from the Uno Platform head projects. This is much more convenient than using Visual Studio Shared libraries. Shared libraries don’t seem to have full support in Visual Studio, and some features like quick refactors often don’t work. This article briefly explains what I did to get this working. I completely removed the shared library in my sample.
+
+* [Using WebAssembly Modules in C#](https://platform.uno/blog/using-webassembly-modules-in-c/) - (August 24, 2020) - This article covers implementing custom module validation in an ASP.NET Core MVC web application, using Emscripten to create a WebAssembly module that can be used outside the browser, and using WebAssembly modules in your C# code.
 
 * [Running UWP on a Raspberry Pi Using Uno Platform](https://ian.bebbs.co.uk/posts/UnoPi) - (August 20, 2020) - A few days ago I showed how the recent v3 release of the Uno Platform allowed you to run UWP apps on Linux. This was fantastic but really only half the story I wanted to tell. What I really wanted to do was see if I could get an app written in my favourite UI framework running on my favourite SBC; to wit, UWP on the the Raspberry Pi. In this post I show how, yet again, the Uno team have made this not only possible but startlingly easy and shockingly powerful.
 
