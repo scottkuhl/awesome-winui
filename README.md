@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Using WebAssembly Modules in C#](https://platform.uno/blog/using-webassembly-modules-in-c/) - (August 24, 2020) - This article covers implementing custom module validation in an ASP.NET Core MVC web application, using Emscripten to create a WebAssembly module that can be used outside the browser, and using WebAssembly modules in your C# code
+
 * [Running UWP on a Raspberry Pi Using Uno Platform](https://ian.bebbs.co.uk/posts/UnoPi) - (August 20, 2020) - A few days ago I showed how the recent v3 release of the Uno Platform allowed you to run UWP apps on Linux. This was fantastic but really only half the story I wanted to tell. What I really wanted to do was see if I could get an app written in my favourite UI framework running on my favourite SBC; to wit, UWP on the the Raspberry Pi. In this post I show how, yet again, the Uno team have made this not only possible but startlingly easy and shockingly powerful.
 
 * [Bring the best of the Web to your .NET desktop applications with WebView2](https://devblogs.microsoft.com/dotnet/bring-the-best-of-the-web-to-your-net-desktop-applications-with-webview2/) - (August 19, 2020) - Last year at Build, we introduced WebView2, a browser control that renders web content (HTML / CSS / JavaScript) with the new Chromium-based Microsoft Edge. It was originally limited in scope to C/C++ applications. Today, we are happy to announce the release of the WebView2 preview for .NET applications! WebView2 is available for both .NET Core and .NET Framework. It can be used inside of WPF, Windows Forms and WinUI 3.0 applications all the way down to Windows 7.
