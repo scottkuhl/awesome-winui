@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [An update on my book - Learn WinUI 3.0](https://www.winui.tips/2020/09/an-update-on-my-book-learn-winui-30.html) - (September 4, 2020) -  Summer is winding down, and I realized it's been months since I have posted anything on my WPF, UWP, and WinUI Tips blogs. I have been hard at work writing my first book, Learn WinUI 3.0 from Packt Publishing, this year. The project started in January, and I am about to start writing the first draft of the fourteenth (and final) chapter. I haven't been given the exact publication date, but it should be available about the same time that Microsoft releases Preview 3 of WinUI 3 in November, maybe a little earlier.
+
 * [App First Run Detection with Uno Platform and UWP](https://blog.mzikmund.com/2020/08/app-first-run-detection-with-uno-platform-and-uwp/) - (August 27, 2020) - Recently, James Montemagno published a blog post about the detection of first app run with Xamarin.Essentials. I thought it would be interesting to write a post about how the same would be accomplished with Uno Platform and UWP.
 
 * [How to Move Uno Platform Pages to a Multi-Targeting Library](https://christianfindlay.com/2020/08/25/uno-multitargeting/) - (August 25, 2020) - You can move Uno Platform pages and other code into a multi-targeted library that you can reference from the Uno Platform head projects. This is much more convenient than using Visual Studio Shared libraries. Shared libraries don’t seem to have full support in Visual Studio, and some features like quick refactors often don’t work. This article briefly explains what I did to get this working. I completely removed the shared library in my sample.
