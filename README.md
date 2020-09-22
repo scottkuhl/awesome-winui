@@ -206,6 +206,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Announcing more ways, we’re making app development easier on Windows](https://blogs.windows.com/windowsdeveloper/2020/09/22/kevin-gallo-microsoft-ignite-2020/) - (September 22, 2020) -  Building great apps on Windows should be easier – no matter how your app is written.  We want to ensure you have a path forward to make your apps better on Windows and we’re doing that with Project Reunion.  We’re creating a unified app platform that allows you to focus on your app and take advantage of new or existing code.  We also know you need a great development environment and tools that help you stay productive. Today, at Microsoft Ignite I’m excited to share the progress we’ve made to simplify app development and give you a great developer experience.
+
 * [Windows 10 developers: Microsoft's Project Reunion just gained this new tool](https://www.zdnet.com/article/windows-10-developers-microsofts-project-reunion-just-gained-this-new-tool/) - (September 16, 2020) -  Microsoft unveils MRT Core resource loader for Project Reunion, its effort to fix problems with Win32 and UWP apps.
 
 * [Building Windows Terminal with WinUI](https://devblogs.microsoft.com/commandline/building-windows-terminal-with-winui/) - (September 8, 2020) -  WinUI and Windows Terminal have a strong relationship that goes back to the origins of Windows Terminal. This blog post goes into the history and architecture of how these two technologies came together.
