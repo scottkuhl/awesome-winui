@@ -15,11 +15,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 # Upcoming Events
 
-**Microsoft Ignite (September 22-24, 2020**
+**.NET Conf (November 10-12, 2020)**
 
-Microsoft Ignite will be launched as a complimentary digital event experience this September. Join us to learn innovative ways to build solutions, migrate and manage your infrastructure, and connect with Microsoft experts and other technology professionals from around the globe.
+.NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
 
-[<img src="https://mediusprodstatic.studios.ms/video-26007/thumbnail.jpg?sv=2018-03-28&sr=c&sig=uX9XvA3ycaiizLPKFqjhco%2FBb1g0X9ShgdoMEMC3AbQ%3D&se=2024-11-06T04%3A46%3A39Z&sp=r">](https://www.microsoft.com/en-us/ignite)
+[<img src="https://www.dotnetconf.net/img/conference-at-a-glance.svg">](https://www.dotnetconf.net/)
 
 
 ## Introduction
