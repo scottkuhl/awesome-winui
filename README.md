@@ -208,6 +208,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Feature roadmap of WinUI is finally available](https://mspoweruser.com/feature-roadmap-of-winui-is-finally-available/) - (September 24, 2020) -  Microsoft today announced the release of WinUI 3.0 feature roadmap. The feature roadmap table included below will offer you the status on WinUI 3 features, and the expected date of availability. 
+
 * [Microsoft's WebView2 for Windows 10 apps will be generally available by end of 2020](https://www.windowscentral.com/microsofts-webview2-windows-10-apps-will-be-generally-available-end-2020) - (September 22, 2020) -  WebView2 should improve the performance of web apps that adopt it.
 
 * [Announcing more ways, we’re making app development easier on Windows](https://blogs.windows.com/windowsdeveloper/2020/09/22/kevin-gallo-microsoft-ignite-2020/) - (September 22, 2020) -  Building great apps on Windows should be easier – no matter how your app is written.  We want to ensure you have a path forward to make your apps better on Windows and we’re doing that with Project Reunion.  We’re creating a unified app platform that allows you to focus on your app and take advantage of new or existing code.  We also know you need a great development environment and tools that help you stay productive. Today, at Microsoft Ignite I’m excited to share the progress we’ve made to simplify app development and give you a great developer experience.
