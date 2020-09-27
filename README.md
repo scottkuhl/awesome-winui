@@ -208,6 +208,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Sneak Peek at 2020 Volume 3: Major Highlights](https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx) - (September 25, 2020) -  We are happy to announce that our first-ever Syncfusion Essential Studio for WinUI preview 3 will be included in our upcoming 2020 Volume 3 release. 
+
 * [Feature roadmap of WinUI is finally available](https://mspoweruser.com/feature-roadmap-of-winui-is-finally-available/) - (September 24, 2020) -  Microsoft today announced the release of WinUI 3.0 feature roadmap. The feature roadmap table included below will offer you the status on WinUI 3 features, and the expected date of availability. 
 
 * [Microsoft's WebView2 for Windows 10 apps will be generally available by end of 2020](https://www.windowscentral.com/microsofts-webview2-windows-10-apps-will-be-generally-available-end-2020) - (September 22, 2020) -  WebView2 should improve the performance of web apps that adopt it.
