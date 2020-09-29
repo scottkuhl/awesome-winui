@@ -210,6 +210,8 @@ Articles are listed by newest date first.
 
 * [Build pixel-perfect Microsoft Surface Duo apps with Uno Platform](https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/) - (September 29, 2020) -  In previous blog posts, the Surface Duo team demonstrated how you can build dual-screen apps using Java and Kotlin, Xamarin and C#, Flutter, React Native, Web, and games with Unity. Today’s blog post shows how UWP and WinUI developers can target the Surface Duo using Uno Platform.
 
+* [Uno Platform 3.0 – Styling Uno Applications with Fluent and Material styles](https://platform.uno/blog/uno-platform-3-0-styling-uno-applications-with-fluent-and-material-styles/) - (September 28, 2020) -  This article will explain how to add either Material Design or Fluent Design to a new or existing Uno app with only a few lines of code, and help you boost your productivity with our ready-made styles and controls!
+
 * [Sneak Peek at 2020 Volume 3: Major Highlights](https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx) - (September 25, 2020) -  We are happy to announce that our first-ever Syncfusion Essential Studio for WinUI preview 3 will be included in our upcoming 2020 Volume 3 release. 
 
 * [Feature roadmap of WinUI is finally available](https://mspoweruser.com/feature-roadmap-of-winui-is-finally-available/) - (September 24, 2020) -  Microsoft today announced the release of WinUI 3.0 feature roadmap. The feature roadmap table included below will offer you the status on WinUI 3 features, and the expected date of availability. 
