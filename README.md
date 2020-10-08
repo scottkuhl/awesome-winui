@@ -208,6 +208,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Introduction to WebAssembly for .NET Developers: Building with Uno Platform, XAML, and C#](https://platform.uno/blog/introduction-to-webassembly-for-net-developers-building-with-uno-platform-xaml-and-c/) - (October 7, 2020) - I’ll show you how to build a web application utilizing WebAssembly with .NET, XAML, and C#. You’ll build a simple XAML app with some form controls to collect data and display that data in a ListView.
+
 * [Build pixel-perfect Microsoft Surface Duo apps with Uno Platform](https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/) - (September 29, 2020) -  In previous blog posts, the Surface Duo team demonstrated how you can build dual-screen apps using Java and Kotlin, Xamarin and C#, Flutter, React Native, Web, and games with Unity. Today’s blog post shows how UWP and WinUI developers can target the Surface Duo using Uno Platform.
 
 * [Uno Platform 3.0 – Styling Uno Applications with Fluent and Material styles](https://platform.uno/blog/uno-platform-3-0-styling-uno-applications-with-fluent-and-material-styles/) - (September 28, 2020) -  This article will explain how to add either Material Design or Fluent Design to a new or existing Uno app with only a few lines of code, and help you boost your productivity with our ready-made styles and controls!
