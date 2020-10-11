@@ -208,6 +208,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [MVVM Toolkit Preview 3 & The Journey of an API](https://devblogs.microsoft.com/pax-windows/mvvm-toolkit-preview-3-the-journey-of-an-api/) - (October 7, 2020) - 🎉 Today we’re happy to announce a new preview of our MVVM Toolkit as part of the Windows Community Toolkit. 🎉 This update includes changes based on feedback from our community who’ve been using the initial preview of the library.
+
 * [Introduction to WebAssembly for .NET Developers: Building with Uno Platform, XAML, and C#](https://platform.uno/blog/introduction-to-webassembly-for-net-developers-building-with-uno-platform-xaml-and-c/) - (October 7, 2020) - I’ll show you how to build a web application utilizing WebAssembly with .NET, XAML, and C#. You’ll build a simple XAML app with some form controls to collect data and display that data in a ListView.
 
 * [Build pixel-perfect Microsoft Surface Duo apps with Uno Platform](https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/) - (September 29, 2020) -  In previous blog posts, the Surface Duo team demonstrated how you can build dual-screen apps using Java and Kotlin, Xamarin and C#, Flutter, React Native, Web, and games with Unity. Today’s blog post shows how UWP and WinUI developers can target the Surface Duo using Uno Platform.
