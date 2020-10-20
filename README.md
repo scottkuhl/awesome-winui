@@ -148,7 +148,7 @@ Education are listed by newest date first.
 ## Channels
 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d74b374-2335-448d-9e3d-f7f27841ef04-profile_image-70x70.png">](https://www.twitch.tv/xamlllama) 
-[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2d44fe99-1788-4b54-a230-06ddabe0a97a-profile_image-70x70.png">](https://www.twitch.tv/visualstudio) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/23bc51a7-bf03-41f5-9e98-9f5ed9d2ecc0-profile_image-70x70.png">](https://www.twitch.tv/visualstudio) 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e98df394-1bee-43c0-9f5f-78a63148a84b-profile_image-70x70.png">](https://www.twitch.tv/dotnetnorthlive) 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9590f1ae-c091-4bba-b07c-2bbc3400ac28-profile_image-70x70.png">](https://www.twitch.tv/martinzikmund) 
 
@@ -184,7 +184,7 @@ Screencasts are listed by newest date first.
 
 **WinUI Community Call Occurs the 3rd Wednesday of every month at 9:00AM PDT**
 
-[<img src="https://github.com/scottkuhl/awesome-winui/blob/master/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
+[<img src="https://github.com/scottkuhl/awesome-winui/blob/main/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
 
 * [Come meet the new .NET Standard MVVM](https://www.twitch.tv/videos/707332546) - (August 11, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
 
