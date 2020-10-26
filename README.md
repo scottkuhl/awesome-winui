@@ -21,6 +21,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 [<img src="https://www.dotnetconf.net/img/conference-at-a-glance.svg">](https://www.dotnetconf.net/)
 
+**DotNetConf Event – Uno Platform and .NET 5 (December 17, 2020)**
+
+Recently announced .NET 5 creates multiple opportunities for Uno Platform to improve performance and reduce solution complexity. With .NET 5, we are able to better target traditional Microsoft Windows targets, but also WebAssembly, Linux and macOS. Come join us for a 30 minutes overview of how Uno Platform takes advantage of .NET 5, as well as for live Q&A with our CTO Jerome Laban.
+
+[<img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F115649949%2F265235793343%2F1%2Foriginal.20201023-154300?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8260fe311222da0b9c3a03eec978a4d8">](https://www.eventbrite.ca/e/dotnetconf-event-uno-platform-and-net-5-registration-126444369513)
 
 ## Introduction
 
