@@ -213,6 +213,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Microsoft plans big Windows 10 UI refresh in 2021 codenamed 'Sun Valley'](https://www.windowscentral.com/windows-10-sun-valley-ui-october-2021-update) - (October 28, 2020) - A big UI refresh is on the cards for Windows 10 in 2021. The project is codenamed Sun Valley. Improvements to File Explorer, Start, and Tablet Mode are expected.
+
 * [Uno Platform 3.1 Released – Linux, new WinUI controls, Prism 8.0 and more](https://platform.uno/blog/uno-platform-3-1-released-linux-new-winui-controls-prism-8-0-and-more/) - (October 23, 2020) - For 3.1 release we were able to add 70+ features and close 140+ code and documentation issues. Let’s unpack the release. And for all of you inpatient ones, head over to your IDE and update your packages to 3.1!
 
 * [Announcing Microsoft Edge WebView2 General Availability](https://blogs.windows.com/msedgedev/2020/10/19/edge-webview2-general-availability/) - (October 19, 2020) - Today, we are excited to announce that  Microsoft Edge WebView2 for Win32 C/C++ is generally available and ready for use in production applications! With today’s announcement, we are officially releasing a forward-compatible WebView2 SDK along with production-ready WebView2 Runtime. These can be used in any Win32 C/C++ application, and are supported across existing Windows versions.
