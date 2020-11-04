@@ -213,6 +213,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Syncfusion Previews WinUI Controls](https://visualstudiomagazine.com/articles/2020/11/04/syncfusion-3.aspx) - (November 4, 2020) - Syncfusion's latest update to its various third-party development controls and tools provides preview support for WinUI, Microsoft's UI framework for all Windows apps across both Win32 and Universal Windows Platform (UWP).
+
 * [Beyond Uno Platform “Getting Started” – Navigation, Platform Specific XAML and C#, MVVM, JavaScript interop and more](https://platform.uno/blog/beyond-uno-platform-getting-started-navigation-platform-specific-xaml-and-c-mvvm-javascript-interop-and-more/) - (November 2, 2020) - Andrew Hoefling, a Microsoft MVP, speaker, trainer and as of recently Uno Platform contributor dedicated a blog series with getting started guides and code samples to help you get up and running quickly with Uno Platform Apps.
 
 * [Microsoft plans big Windows 10 UI refresh in 2021 codenamed 'Sun Valley'](https://www.windowscentral.com/windows-10-sun-valley-ui-october-2021-update) - (October 28, 2020) - A big UI refresh is on the cards for Windows 10 in 2021. The project is codenamed Sun Valley. Improvements to File Explorer, Start, and Tablet Mode are expected.
