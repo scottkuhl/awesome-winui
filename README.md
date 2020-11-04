@@ -213,6 +213,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Beyond Uno Platform “Getting Started” – Navigation, Platform Specific XAML and C#, MVVM, JavaScript interop and more](https://platform.uno/blog/beyond-uno-platform-getting-started-navigation-platform-specific-xaml-and-c-mvvm-javascript-interop-and-more/) - (November 2, 2020) - Andrew Hoefling, a Microsoft MVP, speaker, trainer and as of recently Uno Platform contributor dedicated a blog series with getting started guides and code samples to help you get up and running quickly with Uno Platform Apps.
+
 * [Microsoft plans big Windows 10 UI refresh in 2021 codenamed 'Sun Valley'](https://www.windowscentral.com/windows-10-sun-valley-ui-october-2021-update) - (October 28, 2020) - A big UI refresh is on the cards for Windows 10 in 2021. The project is codenamed Sun Valley. Improvements to File Explorer, Start, and Tablet Mode are expected.
 
 * [Uno Platform 3.1 Released – Linux, new WinUI controls, Prism 8.0 and more](https://platform.uno/blog/uno-platform-3-1-released-linux-new-winui-controls-prism-8-0-and-more/) - (October 23, 2020) - For 3.1 release we were able to add 70+ features and close 140+ code and documentation issues. Let’s unpack the release. And for all of you inpatient ones, head over to your IDE and update your packages to 3.1!
