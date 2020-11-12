@@ -213,6 +213,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Uno Platform 3.2: .NET 5, C# 9 support and .NET 5 WebAssembly AOT Support](https://platform.uno/blog/uno-platform-3-2-net-5-c-9-support-and-net-5-webassembly-aot-support/) - (November 9, 2020) - The 3.2 release is loaded with features and performance improvements. Most of the release focused on upcoming .NET 5 and all benefits Uno Platform gets from building on top of it. However, we are also releasing improvements to the controls and tooling we introduced in previous releases.
+
 * [Syncfusion Previews WinUI Controls](https://visualstudiomagazine.com/articles/2020/11/04/syncfusion-3.aspx) - (November 4, 2020) - Syncfusion's latest update to its various third-party development controls and tools provides preview support for WinUI, Microsoft's UI framework for all Windows apps across both Win32 and Universal Windows Platform (UWP).
 
 * [Beyond Uno Platform “Getting Started” – Navigation, Platform Specific XAML and C#, MVVM, JavaScript interop and more](https://platform.uno/blog/beyond-uno-platform-getting-started-navigation-platform-specific-xaml-and-c-mvvm-javascript-interop-and-more/) - (November 2, 2020) - Andrew Hoefling, a Microsoft MVP, speaker, trainer and as of recently Uno Platform contributor dedicated a blog series with getting started guides and code samples to help you get up and running quickly with Uno Platform Apps.
