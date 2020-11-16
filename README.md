@@ -81,7 +81,10 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Legerity](https://github.com/MADE-Apps/legerity) - ![GitHub stars](https://img.shields.io/github/stars/MADE-Apps/legerity?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/MADE-Apps/legerity?cacheSeconds=86000) Legerity is a framework for speeding up the development of automated UI testing with Appium and .NET!
 
+* [Syncfusion WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - The Syncfusion WinUI toolkit includes feature-rich WinUI controls like DataGrid, Charts, TreeView, and more, that embodies Fluent Design for building modern and seamless Windows apps. **[$]**
+
 * [Telerik UI for WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
+
 
 ## Tooling
 
