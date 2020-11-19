@@ -218,6 +218,8 @@ Screencasts are listed by newest date first.
 
 Articles are listed by newest date first.
 
+* [Start and Restart Windows (UWP/WinUI) Applications on Windows Startup](https://nicksnettravels.builttoroam.com/launch-on-startup/) - (November 14, 2020) - A while ago Windows introduced a little-known feature that allows applications to automatically restart when Windows is restarted. However, rather than just look at this feature, which Windows app developer get for free, in this post we’re going to look at different options for starting and restarting a Windows application when Windows starts/restarts.
+
 * [Uno Platform 3.2: .NET 5, C# 9 support and .NET 5 WebAssembly AOT Support](https://platform.uno/blog/uno-platform-3-2-net-5-c-9-support-and-net-5-webassembly-aot-support/) - (November 9, 2020) - The 3.2 release is loaded with features and performance improvements. Most of the release focused on upcoming .NET 5 and all benefits Uno Platform gets from building on top of it. However, we are also releasing improvements to the controls and tooling we introduced in previous releases.
 
 * [Syncfusion Previews WinUI Controls](https://visualstudiomagazine.com/articles/2020/11/04/syncfusion-3.aspx) - (November 4, 2020) - Syncfusion's latest update to its various third-party development controls and tools provides preview support for WinUI, Microsoft's UI framework for all Windows apps across both Win32 and Universal Windows Platform (UWP).
