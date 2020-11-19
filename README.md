@@ -198,6 +198,8 @@ Screencasts are listed by newest date first.
 
 * [App Consult Insights - S02 E04 WinUI 3.0 Preview 3.0](https://www.youtube.com/watch?v=xUdTpoyINvc) - (November 19, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-10%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) The WinUI team has just released a new and exciting preview of WinUI 3.0, the new UI framework to build Windows applications. In this short episode, Marc and Matteo shares some highlights of this new release, like the Intellisense support and XAML Hot Reload.
 
+* [App Development Community Standup: WinUI 3 Preview 3 release](https://www.youtube.com/watch?v=aerGF9kqMJY) - (November 17, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-52%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn about the new features in the WinUI 3 Preview 3 that are available for you to try in your app.
+
 * [Come meet the new .NET Standard MVVM](https://www.twitch.tv/videos/707332546) - (August 11, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
 
 * [WinUI 3 & the Windows Community Toolkit Preview](https://www.twitch.tv/videos/700998018) - (August 4, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-52%20min-%230094FF?cacheSeconds=maxAge&logo=twitch).
