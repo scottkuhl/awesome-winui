@@ -15,12 +15,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 # Upcoming Events
 
-**.NET Conf (November 10-12, 2020)**
-
-.NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
-
-[<img src="https://www.dotnetconf.net/img/conference-at-a-glance.svg">](https://www.dotnetconf.net/)
-
 **DotNetConf Event – Uno Platform and .NET 5 (December 17, 2020)**
 
 Recently announced .NET 5 creates multiple opportunities for Uno Platform to improve performance and reduce solution complexity. With .NET 5, we are able to better target traditional Microsoft Windows targets, but also WebAssembly, Linux and macOS. Come join us for a 30 minutes overview of how Uno Platform takes advantage of .NET 5, as well as for live Q&A with our CTO Jerome Laban.
