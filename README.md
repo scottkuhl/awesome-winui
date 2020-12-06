@@ -220,6 +220,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [What’s the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)](https://nicksnettravels.builttoroam.com/net5-crossplatform/) - (December 1, 2020) - Over the last couple of years there have been a couple of key developments in the .NET world. However, despite a lot of rhetoric from Microsoft about building a better developer ecosystem, the reality is that the current landscape for building apps using .NET is a mess and no amount of sugar coating is going to fix that. In this post I’m going to try to position a number of technologies in the hope that I can share where I think things are going.
+
 * [Uno Platform 3.3 – Day 0 support for WinUI 3 Preview 3, Android 11](https://platform.uno/blog/uno-platform-3-3-day-0-support-for-winui-3-preview-3-android-11/) - (November 17, 2020) - WinUI 3.0 Preview 3 is a big step towards shipping the final version of WinUI. We at Uno Platform team are happy to report that Uno Platform already works with the latest WinUI preview. Our sincerest thanks to WinUI team who keeps us posted on their progress and allows us to make modifications to Uno so that our joint developer base can use the latest and greatest bits right away.
 
 * [Announcing WinUI 3: Preview 3](https://blogs.windows.com/windowsdeveloper/2020/11/17/announcing-winui-3-preview-3/) - (November 17, 2020) - If you tuned in to this morning’s App Development Community Standup, you know that today we released WinUI 3 Preview 3.
