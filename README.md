@@ -61,6 +61,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Windows Presentation Foundation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - Official documentation of Windows Presentation Foundation, from Microsoft.
 
+* [Themes of .NET](https://themesof.net/) - Track overall themes and underlying epics and user stories planned for the next major version of .NET.
+
 ## Libraries
 
 * [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
