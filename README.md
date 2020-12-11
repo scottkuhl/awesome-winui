@@ -222,6 +222,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Porting the Contoso UWP showcase application to Uno Platform](https://platform.uno/blog/porting-the-contoso-uwp-showcase-application-to-uno-platform/) - (December 8, 2020) - Connor Park, a Microsoft MVP and blogger from Korea recently ported the Contoso showcase application from being desktop-only, UWP application to a cross-platform application using UWP and Uno Platform. The source code is available in GitHub for you to try and learn from it. Equally importantly, Connor took the time to capture lessons learned during the port in order to help all others wishing to move their UWP desktop applications to Web, macOS, Linux, iOS and Android.
+
 * [Microsoft’s PowerToys for Windows 10 will get a contemporary replace with new options](https://enter21st.com/microsofts-powertoys-for-windows-10-will-get-a-contemporary-replace-with-new-options/) - (December 2, 2020) - With at present’s replace, Microsoft is bringing Windows 10’s Fluent UI to the picture resizer. It makes use of each Fluent Design and ModernWPF to imitate the WinUI feel and look, and the replace additionally allows assist for themes.
 
 * [Windows UI Library 2.5](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/release-notes/winui-2.5?view=winui-2.5) - (December 1, 2020) - Win UI 2.5 has been released with new features including a new InfoBar control, a Determinate ProgressRing and the ability to add footer menu items to the NavigatioView.
