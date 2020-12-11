@@ -172,6 +172,8 @@ Events are listed by newest date first.
 
 Podcasts are listed by newest date first.
 
+* [Michael Hawker on the Windows Community](http://azuredevopspodcast.clear-measure.com/michael-hawker-on-the-windows-community-episode-118) - (December 7, 2020) - Azure DevOps Podcast - ![duration](https://img.shields.io/badge/Duration:%20-37%20min-%230094FF?cacheSeconds=maxAge&logo=pocket-casts) In this episode, Michael A. Hawker, AKA ‘XAML Llama,’ joins the podcast to discuss the Windows Community Toolkit and more.
+
 * [Uno Platform With Jérôme Laban](https://dotnetcore.show/episode-60-uno-platform-with-jerome-laban/) - (September 18, 2020) - The .NET Core Podcast - ![duration](https://img.shields.io/badge/Duration:%20-42%20min-%230094FF?cacheSeconds=maxAge&logo=pocket-casts) In this episode I spoke with Jérôme about precisely what Uno Platform is, how it's more than just an alternative to Xamarin, and how you can use it to build cross platform UI-based .NET applications which leverage all of the APIs that you have come to love and expect.
 
 * [Update on Uno. With Jérôme Laban](https://kerry.lothrop.de/devtalk-43/) - (August 10, 2020) - DevTalk - ![duration](https://img.shields.io/badge/Duration:%20-38%20min-%230094FF?cacheSeconds=maxAge&logo=pocket-casts) On episode 43 of DevTalk I welcome Jérôme Laban for a second time to talk about what has happened with the Uno Platform since we last spoke.
