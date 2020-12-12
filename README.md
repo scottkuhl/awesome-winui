@@ -204,6 +204,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 [<img src="https://github.com/scottkuhl/awesome-winui/blob/main/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
 
+* [App Consult Insights - S02 E05 The UNO platform](https://www.youtube.com/watch?v=lztiTlXXq-0) - (December 11, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Matteo and Marc are back with an episode about their favourite topic: WinUI 3. But this time we look beyond the core framework and explore what the UNO platform has to offer for cross-platform WinUI 3 development.
+
 * [App Consult Insights - S02 E04 WinUI 3.0 Preview 3.0](https://www.youtube.com/watch?v=xUdTpoyINvc) - (November 19, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-10%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) The WinUI team has just released a new and exciting preview of WinUI 3.0, the new UI framework to build Windows applications. In this short episode, Marc and Matteo shares some highlights of this new release, like the Intellisense support and XAML Hot Reload.
 
 * [App Development Community Standup: WinUI 3 Preview 3 release](https://www.youtube.com/watch?v=aerGF9kqMJY) - (November 17, 2020) - ![duration](https://img.shields.io/badge/Duration:%20-52%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) Join Kevin Gallo and guests to learn about the new features in the WinUI 3 Preview 3 that are available for you to try in your app.
