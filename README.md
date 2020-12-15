@@ -96,6 +96,8 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Rapid XAML Toolkit](https://github.com/mrlacey/Rapid-XAML-Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/Rapid-XAML-Toolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/Rapid-XAML-Toolkit?cacheSeconds=86000) This is a collection of tools for making it easier for developers to work with XAML (UWP, WPF, and Xamarin.Forms).
 
+* [Windows app bootstrap template](https://github.com/dpaulino/windows-app-bootstrap) - ![GitHub stars](https://img.shields.io/github/stars/dpaulino/windows-app-bootstrap?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/dpaulino/windows-app-bootstrap?cacheSeconds=86000) A simple template repository you can use to fast track your new modern Windows app.
+
 * [UWP Essentials](https://github.com/mrlacey/UwpEssentials) - ![GitHub stars](https://img.shields.io/github/stars/mrlacey/UwpEssentials?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/mrlacey/UwpEssentials?cacheSeconds=86000) The easiest way to set up Visual Studio for the ultimate UWP development experience.
 
 * [Character Map UWP](https://www.microsoft.com/en-us/p/character-map-uwp/9wzdncrdxf41) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
