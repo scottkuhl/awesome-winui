@@ -234,6 +234,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Windows 10: Microsoft's Project Reunion preview arrives to make writing apps easier](https://www.zdnet.com/article/windows-10-microsofts-project-reunion-preview-arrives-to-make-writing-apps-easier/) - (December 14, 2020) - Microsoft makes progress on its plan to bring old Windows apps together with modern ones.
+
 * [Announcing Project Reunion V0.1!](https://github.com/microsoft/ProjectReunion/issues/337) - (December 11, 2020) - V0.1 is just the beginning. This limited preview lays the foundation for Project Reunion’s runtime distribution and includes some of the work we’ve done towards creating the plumbing that makes sure your apps can consume Project Reunion APIs. There’s still more to do, to unify the platform, add more functionality such as Windowing and Storage APIs that will be released in the coming months, and do performance tuning. We will be publishing a more detailed roadmap in the new year, 2021.
 
 * [Porting the Contoso UWP showcase application to Uno Platform](https://platform.uno/blog/porting-the-contoso-uwp-showcase-application-to-uno-platform/) - (December 8, 2020) - Connor Park, a Microsoft MVP and blogger from Korea recently ported the Contoso showcase application from being desktop-only, UWP application to a cross-platform application using UWP and Uno Platform. The source code is available in GitHub for you to try and learn from it. Equally importantly, Connor took the time to capture lessons learned during the port in order to help all others wishing to move their UWP desktop applications to Web, macOS, Linux, iOS and Android.
