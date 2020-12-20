@@ -236,6 +236,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Windows Template Studio 3.9 Released](https://github.com/microsoft/WindowsTemplateStudio/releases/tag/3.9.20351.02) - (December 17, 2020) - Version 3.9 of Windows Template Studio is now available with text projects for WPF, accessibility updates, bug fixes and NuGet package reference updates.
+
 * [Windows 10: Microsoft's Project Reunion preview arrives to make writing apps easier](https://www.zdnet.com/article/windows-10-microsofts-project-reunion-preview-arrives-to-make-writing-apps-easier/) - (December 14, 2020) - Microsoft makes progress on its plan to bring old Windows apps together with modern ones.
 
 * [Announcing Project Reunion V0.1!](https://github.com/microsoft/ProjectReunion/issues/337) - (December 11, 2020) - V0.1 is just the beginning. This limited preview lays the foundation for Project Reunion’s runtime distribution and includes some of the work we’ve done towards creating the plumbing that makes sure your apps can consume Project Reunion APIs. There’s still more to do, to unify the platform, add more functionality such as Windowing and Storage APIs that will be released in the coming months, and do performance tuning. We will be publishing a more detailed roadmap in the new year, 2021.
