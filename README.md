@@ -236,6 +236,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Uno Platform 3.4 – Maturing the supported control set](https://platform.uno/blog/uno-platform-3-4-maturing-the-supported-control-set/) - (December 22, 2020) - In early parts of 2020 we had released support for many new platforms – macOS, Linux, Skia and flirted with Tizen. In the second half of the year, as WinUI matured more, we focused on providing day-0 support for WinUI releases. Starting from today’s 3.4 release and in the period ahead when WinUI is expected to RTM, we will be putting an even bigger focus on maturing Uno Platform by providing a growing set of controls and mappings to existing WinUI and 3rd party components.
+
 * [Uno Platform 2021 Roadmap Survey](https://platform.uno/blog/uno-platform-2021-roadmap-survey/) - (December 17, 2020) - TLDR: Take Uno Platform 5-minute Survey now to help us decide 2021 priorities.
 
 * [Windows Template Studio 3.9 Released](https://github.com/microsoft/WindowsTemplateStudio/releases/tag/3.9.20351.02) - (December 17, 2020) - Version 3.9 of Windows Template Studio is now available with test projects for WPF, accessibility updates, bug fixes and NuGet package reference updates.
