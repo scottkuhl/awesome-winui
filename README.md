@@ -192,6 +192,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Introducing Syncfusion Ribbon for WinUI](https://www.syncfusion.com/blogs/post/introducing-syncfusion-ribbon-for-winui.aspx) - (January 7, 2021) - In order to have good flow in your work, you should optimize all possible operations using a ribbon control. A ribbon control is a tool that allows you to group tasks together so they can be performed in sequence.
+
 * [What’s New in 2020 Volume 4: WinUI](https://www.syncfusion.com/blogs/post/whats-new-in-2020-volume-4-winui.aspx) - (January 4, 2021) - We at Syncfusion are glad to announce the last major release of this year, Essential Studio 2020 Volume 4. This is the second major release for Syncfusion Essential Studio for WinUI. If you are new to the WinUI platform, check out our previous blog post about the features included in the first release.
 
 * [Introducing the WinUI InfoBar control](https://xamlbrewer.wordpress.com/2021/01/04/introducing-the-winui-infobar-control/) - (January 4, 2021) - According to its roadmap WinUI 3.0 is currently focusing on Win32 desktop applications and .NET 5. In mean time WinUI 2.x keeps on evolving, bringing XAML features and controls for UWP. One of these new controls is the InfoBar control which was released as a component of WinUI 2.5.  In its original proposal we read that Microsoft was looking for a uniform way to display “long-lived app-wide status messages for scenarios such as updates available or errors that may occur which prevent the user from experiencing an app or its features working as intended“.
