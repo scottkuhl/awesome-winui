@@ -186,6 +186,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 [<img src="https://github.com/scottkuhl/awesome-winui/blob/main/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
 
+* [Building Powerful Native Application Experiences](https://www.youtube.com/watch?v=C82wswLDdSM) - (January 4, 2021) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) In this session, we learn about getting started for developing windows 10 applications, packaging your applications with MSIX, some latest enhancements to command line tools for developers building on windows, and lastly, we hear about the new platform 'Windows on ARM'
+
 ## Articles
 
 Articles are listed by newest date first.
