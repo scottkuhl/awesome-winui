@@ -191,3 +191,5 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 ## Articles
 
 Articles are listed by newest date first.
+
+* [Introducing the WinUI InfoBar control](https://xamlbrewer.wordpress.com/2021/01/04/introducing-the-winui-infobar-control/) - (January 4, 2021) - According to its roadmap WinUI 3.0 is currently focusing on Win32 desktop applications and .NET 5. In mean time WinUI 2.x keeps on evolving, bringing XAML features and controls for UWP. One of these new controls is the InfoBar control which was released as a component of WinUI 2.5.  In its original proposal we read that Microsoft was looking for a uniform way to display “long-lived app-wide status messages for scenarios such as updates available or errors that may occur which prevent the user from experiencing an app or its features working as intended“.
