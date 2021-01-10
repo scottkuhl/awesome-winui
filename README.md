@@ -163,10 +163,11 @@ Education are listed by newest date first.
 
 ## Channels
 
-[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d74b374-2335-448d-9e3d-f7f27841ef04-profile_image-70x70.png">](https://www.twitch.tv/xamlllama) 
-[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/23bc51a7-bf03-41f5-9e98-9f5ed9d2ecc0-profile_image-70x70.png">](https://www.twitch.tv/visualstudio) 
-[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e98df394-1bee-43c0-9f5f-78a63148a84b-profile_image-70x70.png">](https://www.twitch.tv/dotnetnorthlive) 
-[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9590f1ae-c091-4bba-b07c-2bbc3400ac28-profile_image-70x70.png">](https://www.twitch.tv/martinzikmund) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d74b374-2335-448d-9e3d-f7f27841ef04-profile_image-150x150.png">](https://www.twitch.tv/xamlllama) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/23bc51a7-bf03-41f5-9e98-9f5ed9d2ecc0-profile_image-150x150.png">](https://www.twitch.tv/visualstudio) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e98df394-1bee-43c0-9f5f-78a63148a84b-profile_image-150x150.png">](https://www.twitch.tv/dotnetnorthlive) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9590f1ae-c091-4bba-b07c-2bbc3400ac28-profile_image-150x150.png">](https://www.twitch.tv/martinzikmund) 
+[<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/6c80c1db-783f-4409-b15b-da22af24b6c6-profile_image-150x150.png">](https://www.twitch.tv/jeromelaban) 
 
 ## Events
 
