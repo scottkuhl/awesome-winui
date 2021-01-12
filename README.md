@@ -193,6 +193,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [How Does .NET 5 Do XAML? By Decoupling It from Windows with WinUI 3, C#/WinRT and More](https://visualstudiomagazine.com/articles/2021/01/11/xaml-net5.aspx) - (January 11, 2021) - The .NET ecosystem can seem confusing as Microsoft transitions from the old Windows-only .NET Framework to an open-source, cross-platform approach filled with moving parts for a variety of targets.
+
 * [Combining .NET 5, WinUI, UWP – FullTrust, PartialTrust, WindowsAppContainer](https://nicksnettravels.builttoroam.com/trust-appcontainers/) - (January 11, 2021) - As Microsoft progresses towards the first release of WinUI3 and in parallel invests into Project Reunion, the gap between Win32 based applications (eg WinForms, WPF) and UWP applications is being eroded. In this post we’re going to look at the role of trust, identity, capabilities and the Windows App Container, and how they relate to both UWP and .NET 5 based applications.
 
 * [Packaging a WinUI3 Desktop Application](https://nicksnettravels.builttoroam.com/packaging-winui3-desktop/) - (January 9, 2021) - This week I’ve been looking further into where WinUI3 is at and specifically how it relates to both Win32 and UWP applications. Along this journey I ran into a slight issue with WinUI3 for Desktop application that simply wouldn’t run if I published and then installed the package. In this post I’m going to walk through creating, publishing, installing and running a WinUI3 application.
