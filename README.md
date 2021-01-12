@@ -193,6 +193,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Combining .NET 5, WinUI, UWP – FullTrust, PartialTrust, WindowsAppContainer](https://nicksnettravels.builttoroam.com/trust-appcontainers/) - (January 11, 2021) - As Microsoft progresses towards the first release of WinUI3 and in parallel invests into Project Reunion, the gap between Win32 based applications (eg WinForms, WPF) and UWP applications is being eroded. In this post we’re going to look at the role of trust, identity, capabilities and the Windows App Container, and how they relate to both UWP and .NET 5 based applications.
+
 * [Packaging a WinUI3 Desktop Application](https://nicksnettravels.builttoroam.com/packaging-winui3-desktop/) - (January 9, 2021) - This week I’ve been looking further into where WinUI3 is at and specifically how it relates to both Win32 and UWP applications. Along this journey I ran into a slight issue with WinUI3 for Desktop application that simply wouldn’t run if I published and then installed the package. In this post I’m going to walk through creating, publishing, installing and running a WinUI3 application.
 
 * [WinUI 3 Preview 3](https://devblogs.microsoft.com/pax-windows/winui-3-preview-3/) - (January 7, 2021) - That was our first WinUI Desktop app. Its a simple one, but you can see how we can easily leverage the amazing Windows UI stack from a Win32 application with a straight-forward Visual Studio template. Now its your time to create beautiful, complex, fully-featured applications with WinUI Desktop.
