@@ -193,6 +193,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [WinUI 3 Preview 3](https://devblogs.microsoft.com/pax-windows/winui-3-preview-3/) - (January 7, 2021) - That was our first WinUI Desktop app. Its a simple one, but you can see how we can easily leverage the amazing Windows UI stack from a Win32 application with a straight-forward Visual Studio template. Now its your time to create beautiful, complex, fully-featured applications with WinUI Desktop.
+
 * [Introducing Syncfusion Ribbon for WinUI](https://www.syncfusion.com/blogs/post/introducing-syncfusion-ribbon-for-winui.aspx) - (January 7, 2021) - In order to have good flow in your work, you should optimize all possible operations using a ribbon control. A ribbon control is a tool that allows you to group tasks together so they can be performed in sequence.
 
 * [What’s New in 2020 Volume 4: WinUI](https://www.syncfusion.com/blogs/post/whats-new-in-2020-volume-4-winui.aspx) - (January 4, 2021) - We at Syncfusion are glad to announce the last major release of this year, Essential Studio 2020 Volume 4. This is the second major release for Syncfusion Essential Studio for WinUI. If you are new to the WinUI platform, check out our previous blog post about the features included in the first release.
