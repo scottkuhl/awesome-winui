@@ -193,6 +193,8 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 Articles are listed by newest date first.
 
+* [Packaging a WinUI3 Desktop Application](https://nicksnettravels.builttoroam.com/packaging-winui3-desktop/) - (January 9, 2021) - This week I’ve been looking further into where WinUI3 is at and specifically how it relates to both Win32 and UWP applications. Along this journey I ran into a slight issue with WinUI3 for Desktop application that simply wouldn’t run if I published and then installed the package. In this post I’m going to walk through creating, publishing, installing and running a WinUI3 application.
+
 * [WinUI 3 Preview 3](https://devblogs.microsoft.com/pax-windows/winui-3-preview-3/) - (January 7, 2021) - That was our first WinUI Desktop app. Its a simple one, but you can see how we can easily leverage the amazing Windows UI stack from a Win32 application with a straight-forward Visual Studio template. Now its your time to create beautiful, complex, fully-featured applications with WinUI Desktop.
 
 * [Introducing Syncfusion Ribbon for WinUI](https://www.syncfusion.com/blogs/post/introducing-syncfusion-ribbon-for-winui.aspx) - (January 7, 2021) - In order to have good flow in your work, you should optimize all possible operations using a ribbon control. A ribbon control is a tool that allows you to group tasks together so they can be performed in sequence.
