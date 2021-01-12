@@ -171,7 +171,13 @@ Education are listed by newest date first.
 
 ## Events
 
-Events are listed by newest date first.
+* [.NET Conf](https://www.dotnetconf.net/) - Microsoft's virtual conference for the launch of new versions of .NET.
+
+* [Microsoft Build](https://unoconf.com/) - Microsoft's premiere development conference.
+
+* [Microsoft Ignite](https://myignite.microsoft.com/) - Microsoft's largest conference with a focus on enterprise.
+
+* [UnoConf](https://unoconf.com/) - Annual conference by and for the Uno Platform.
 
 ## Podcasts
 
