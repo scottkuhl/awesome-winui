@@ -181,7 +181,13 @@ Education are listed by newest date first.
 
 ## Podcasts
 
-Podcasts are listed by newest date first.
+* [.NET Rocks](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
+
+* [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/) - Message from Jeffrey Palermo: Howdy.  Welcome to my podcast.  I hope it helps you ship software more quickly and more reliably. Through the topics and guests, I hope your life is made easier. Let me know what topics would be helpful for you.
+
+* [Dev Talk](https://devtalk.lothrop.de/) - From Kerry Lothrop: My main focus is on .NET, from the cloud backend to the desktop to embedded to cross-platform mobile development with Xamarin. Enjoy!
+
+* [The .NET Core Show](https://dotnetcore.show/) - The .NET Core Podcast is the only podcast devoted to Microsoft's .NET technologies, spreading knowledge on what you can build with it, and what the community are building. This podcast is created by Jamie Taylor with contributions from developers in the .NET community.
 
 ## Screencasts
 
