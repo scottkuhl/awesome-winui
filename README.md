@@ -35,7 +35,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Events](#events)
 * [Podcasts](#podcasts)
 * [Community Call](#community-call)
-* [Articles](#articles)
+* [Blogs](#blogs)
 
 ## General
 
@@ -195,20 +195,34 @@ All .NET Community Standups are listed on [Microsoft .NET Community Standups](ht
 
 [<img src="https://github.com/scottkuhl/awesome-winui/blob/main/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
 
-## Articles
+## Blogs
 
-Articles are listed by newest date first.
+* [Arlo](https://medium.com/@Arlodottxt) - Creating to live and living to create // Web & UWP Developer / Thing Maker / Music addict
 
-* [How Does .NET 5 Do XAML? By Decoupling It from Windows with WinUI 3, C#/WinRT and More](https://visualstudiomagazine.com/articles/2021/01/11/xaml-net5.aspx) - (January 11, 2021) - The .NET ecosystem can seem confusing as Microsoft transitions from the old Windows-only .NET Framework to an open-source, cross-platform approach filled with moving parts for a variety of targets.
+* [Bruno Sonnino](https://blogs.msmvps.com/bsonnino/)
 
-* [Combining .NET 5, WinUI, UWP – FullTrust, PartialTrust, WindowsAppContainer](https://nicksnettravels.builttoroam.com/trust-appcontainers/) - (January 11, 2021) - As Microsoft progresses towards the first release of WinUI3 and in parallel invests into Project Reunion, the gap between Win32 based applications (eg WinForms, WPF) and UWP applications is being eroded. In this post we’re going to look at the role of trust, identity, capabilities and the Windows App Container, and how they relate to both UWP and .NET 5 based applications.
+* [Christian Findlay](https://christianfindlay.com/) - C# and .NET Blog
 
-* [Packaging a WinUI3 Desktop Application](https://nicksnettravels.builttoroam.com/packaging-winui3-desktop/) - (January 9, 2021) - This week I’ve been looking further into where WinUI3 is at and specifically how it relates to both Win32 and UWP applications. Along this journey I ran into a slight issue with WinUI3 for Desktop application that simply wouldn’t run if I published and then installed the package. In this post I’m going to walk through creating, publishing, installing and running a WinUI3 application.
+* [Ian Bebbington](https://ian.bebbs.co.uk/)
 
-* [WinUI 3 Preview 3](https://devblogs.microsoft.com/pax-windows/winui-3-preview-3/) - (January 7, 2021) - That was our first WinUI Desktop app. Its a simple one, but you can see how we can easily leverage the amazing Windows UI stack from a Win32 application with a straight-forward Visual Studio template. Now its your time to create beautiful, complex, fully-featured applications with WinUI Desktop.
+* [Martin Zikmund](https://blog.mzikmund.com/) - Enthusiastic developer, learning addict and Microsoftie
 
-* [Introducing Syncfusion Ribbon for WinUI](https://www.syncfusion.com/blogs/post/introducing-syncfusion-ribbon-for-winui.aspx) - (January 7, 2021) - In order to have good flow in your work, you should optimize all possible operations using a ribbon control. A ribbon control is a tool that allows you to group tasks together so they can be performed in sequence.
+* [Matt Lacey](https://www.mrlacey.com/) - Developing and designing better software
 
-* [What’s New in 2020 Volume 4: WinUI](https://www.syncfusion.com/blogs/post/whats-new-in-2020-volume-4-winui.aspx) - (January 4, 2021) - We at Syncfusion are glad to announce the last major release of this year, Essential Studio 2020 Volume 4. This is the second major release for Syncfusion Essential Studio for WinUI. If you are new to the WinUI platform, check out our previous blog post about the features included in the first release.
+* [Microsoft Developer Blogs](https://devblogs.microsoft.com/) - Get the latest information, insights, announcements, and news from Microsoft.
 
-* [Introducing the WinUI InfoBar control](https://xamlbrewer.wordpress.com/2021/01/04/introducing-the-winui-infobar-control/) - (January 4, 2021) - According to its roadmap WinUI 3.0 is currently focusing on Win32 desktop applications and .NET 5. In mean time WinUI 2.x keeps on evolving, bringing XAML features and controls for UWP. One of these new controls is the InfoBar control which was released as a component of WinUI 2.5.  In its original proposal we read that Microsoft was looking for a uniform way to display “long-lived app-wide status messages for scenarios such as updates available or errors that may occur which prevent the user from experiencing an app or its features working as intended“.
+* [Nick's .NET Travels](https://nicksnettravels.builttoroam.com/) - Building amazing cross-platform solutions for iOS, Android and Windows
+
+* [Sebastien LaChance](http://www.dotnetapp.com/) - Passionate application developer
+
+* [Uno Platform Team Blog](https://platform.uno/blog/) - Read articles about Uno Platform. Learn how it generates code and other useful insights.
+
+* [Visual Studio Magazine](https://visualstudiomagazine.com/)
+
+* [Windows Developer](https://blogs.windows.com/windowsdeveloper/)
+
+* [WinUI Tips](https://www.winui.tips/)
+
+* [XAML Brewer, by Diederik Krols](https://xamlbrewer.wordpress.com/) - If you're not having fun, you're doing it wrong.
+
+* [Young Coder](https://medium.com/young-coder) - Hack. Code. Think.
