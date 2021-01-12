@@ -13,12 +13,6 @@ If you are looking for WinUI 3.0 content look for this badge: [![Generic badge](
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/scottkuhl/awesome-winui/blob/master/contributing.md) pages first.
 
-# Upcoming Events
-
-**Stay Tuned**
-
-Future events in 2021 will be listed here as soon as they are announced.
-
 ## Introduction
 
 ### What is WinUI?
@@ -40,7 +34,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 * [Channels](#channels)
 * [Events](#events)
 * [Podcasts](#podcasts)
-* [Screencasts](#screencasts)
+* [Community Call](#community-call)
 * [Articles](#articles)
 
 ## General
@@ -169,6 +163,10 @@ Education are listed by newest date first.
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9590f1ae-c091-4bba-b07c-2bbc3400ac28-profile_image-150x150.png">](https://www.twitch.tv/martinzikmund) 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/6c80c1db-783f-4409-b15b-da22af24b6c6-profile_image-150x150.png">](https://www.twitch.tv/jeromelaban) 
 
+[<img src="https://yt3.ggpht.com/ytc/AAUvwngKnFKTymWvYA5lGY4zThNtAP5gkIgpCNzAvbuU=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCjoDja03ibwtTT2fs9W6v6Q) 
+[<img src="https://yt3.ggpht.com/ytc/AAUvwniEKJtCAR62Fh08mR9SYNk0HBXdiTbJdTpbtdpq=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) 
+[<img src="https://yt3.ggpht.com/ytc/AAUvwnhuKkYAbE-4JApNBQNnS9h3Jnc7d-GfMFOz36_n=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA) 
+
 ## Events
 
 * [.NET Conf](https://www.dotnetconf.net/) - Microsoft's virtual conference for the launch of new versions of .NET.
@@ -189,17 +187,13 @@ Education are listed by newest date first.
 
 * [The .NET Core Show](https://dotnetcore.show/) - The .NET Core Podcast is the only podcast devoted to Microsoft's .NET technologies, spreading knowledge on what you can build with it, and what the community are building. This podcast is created by Jamie Taylor with contributions from developers in the .NET community.
 
-## Screencasts
-
-Screencasts are listed by newest date first.
+## Community Call
 
 All .NET Community Standups are listed on [Microsoft .NET Community Standups](https://dotnet.microsoft.com/platform/community/standup).
 
 **WinUI Community Call Occurs the 3rd Wednesday of every month at 9:00AM PDT**
 
 [<img src="https://github.com/scottkuhl/awesome-winui/blob/main/Images/Community%20Call.png?raw=true">](https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA)
-
-* [Building Powerful Native Application Experiences](https://www.youtube.com/watch?v=C82wswLDdSM) - (January 4, 2021) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?cacheSeconds=maxAge&logo=youtube) In this session, we learn about getting started for developing windows 10 applications, packaging your applications with MSIX, some latest enhancements to command line tools for developers building on windows, and lastly, we hear about the new platform 'Windows on ARM'
 
 ## Articles
 
