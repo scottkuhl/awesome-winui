@@ -177,6 +177,8 @@ Education are listed by newest date first.
 
 * [UnoConf](https://unoconf.com/) - Annual conference by and for the Uno Platform.
 
+* [.NET Frontend Day](https://www.dotnet-frontend.com/) - A full day online, with focus on building frontend applications using .NET!
+
 ## Podcasts
 
 * [.NET Rocks](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
