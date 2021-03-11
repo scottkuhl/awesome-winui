@@ -73,7 +73,7 @@ This list focuses on libraries, articles, tutorials, books and other resources f
 
 * [Yugen Toolkit](https://github.com/emiliano84/Yugen.Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/emiliano84/Yugen.Toolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/emiliano84/Yugen.Toolkit?cacheSeconds=86000) The Toolkit is a collection of helper functions, custom controls, and app services. It helps develop common task for UWP apps.
 
-* [Syncfusion WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - The Syncfusion WinUI toolkit includes feature-rich WinUI controls like DataGrid, Charts, TreeView, and more, that embodies Fluent Design for building modern and seamless Windows apps. **[$]**
+* [Syncfusion WinUI](https://www.syncfusion.com/winui-controls) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - The Syncfusion WinUI toolkit includes feature-rich WinUI controls like DataGrid, Charts, TreeView, and more, that embodies Fluent Design for building modern and seamless Windows apps. **[$]**
 
 * [Telerik UI for WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
