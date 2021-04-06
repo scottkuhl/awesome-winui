@@ -9,8 +9,6 @@ A collection of awesome resources for WinUI / Windows developers.
 
 We use Releases to alert of new content, add a **Watch** to **Releases only** to get regular updates of new content.
 
-If you are looking for WinUI 3.0 content look for this badge: [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/)
-
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/scottkuhl/awesome-winui/blob/master/contributing.md) pages first.
 
 ## Introduction
@@ -39,7 +37,7 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 ## General
 
-* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Official documentation of WinUI.  A [demo app](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) is also available.
+* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/microsoft-ui-xaml?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/microsoft-ui-xaml?cacheSeconds=86000) Official documentation of WinUI.  A [demo app](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3preview) is also available.
 
 * [Fluent Design System](https://www.microsoft.com/design/fluent/#/windows) - Make your apps feel as though they were designed with every Windows device in mind—PCs, phones, Xbox One, HoloLens, and more. Find the documentation, tools, and samples you need to get your apps published to the Microsoft Store.
 
@@ -57,9 +55,9 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 ## Libraries
 
-* [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
+* [Uno Platform](https://github.com/unoplatform/uno) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno?cacheSeconds=86000) The Uno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, and WebAssembly.
 
-* [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit/) - ![GitHub stars](https://img.shields.io/github/stars/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) The Windows Community Toolkit has been working alongside the WinUI team to also make sure the Toolkit works on WinUI 3! We're happy to announce that we're also shipping a preview of the toolkit that works on top of this WinUI 3 Preview 1 the same day!
+* [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit/) - ![GitHub stars](https://img.shields.io/github/stars/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/windows-toolkit/WindowsCommunityToolkit?cacheSeconds=86000) The Windows Community Toolkit has been working alongside the WinUI team to also make sure the Toolkit works on WinUI 3! We're happy to announce that we're also shipping a preview of the toolkit that works on top of this WinUI 3 Preview 1 the same day!
 
 * [Project Reunion](https://github.com/microsoft/ProjectReunion) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/ProjectReunion?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ProjectReunion?cacheSeconds=86000) Project Reunion is our vision for unifying and evolving the Windows developer platform to make it easier to build great apps that work across all the Windows 10 versions and devices people use.
 
@@ -73,9 +71,9 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 * [Yugen Toolkit](https://github.com/emiliano84/Yugen.Toolkit) - ![GitHub stars](https://img.shields.io/github/stars/emiliano84/Yugen.Toolkit?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/emiliano84/Yugen.Toolkit?cacheSeconds=86000) The Toolkit is a collection of helper functions, custom controls, and app services. It helps develop common task for UWP apps.
 
-* [Syncfusion WinUI](https://www.syncfusion.com/winui-controls) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - The Syncfusion WinUI toolkit includes feature-rich WinUI controls like DataGrid, Charts, TreeView, and more, that embodies Fluent Design for building modern and seamless Windows apps. **[$]**
+* [Syncfusion WinUI](https://www.syncfusion.com/winui-controls) - The Syncfusion WinUI toolkit includes feature-rich WinUI controls like DataGrid, Charts, TreeView, and more, that embodies Fluent Design for building modern and seamless Windows apps. **[$]**
 
-* [Telerik UI for WinUI](https://www.telerik.com/winui) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
+* [Telerik UI for WinUI](https://www.telerik.com/winui) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
 
 ## Tooling
@@ -144,7 +142,7 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 * [Fluent Store](https://github.com/yoshiask/FluentStore) - ![GitHub stars](https://img.shields.io/github/stars/yoshiask/FluentStore?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/yoshiask/FluentStore?cacheSeconds=86000) A Fluent, native, and open-source alternative to the Microsoft Store app.
 
-* [Ch9](https://github.com/unoplatform/Uno.Ch9) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Ch9?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Ch9?cacheSeconds=86000) [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) Ch9 is a demo app which showcases the power of using WinUI and Uno Platform for developing single-codebase, cross-platform applications for Windows, iOS, Android and WebAssembly. It uses the publicly-available video feed from Microsoft's Channel 9 for content.  The app is also available in App Stores ([Microsoft](https://www.microsoft.com/store/productId/9NL3GNG31TMK), [Apple](https://apps.apple.com/us/app/ch9/id1512235875?ls=1), [Google](https://play.google.com/store/apps/details?id=uno.platform.ch9&hl=en)).
+* [Ch9](https://github.com/unoplatform/Uno.Ch9) - ![GitHub stars](https://img.shields.io/github/stars/unoplatform/Uno.Ch9?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/Uno.Ch9?cacheSeconds=86000) Ch9 is a demo app which showcases the power of using WinUI and Uno Platform for developing single-codebase, cross-platform applications for Windows, iOS, Android and WebAssembly. It uses the publicly-available video feed from Microsoft's Channel 9 for content.  The app is also available in App Stores ([Microsoft](https://www.microsoft.com/store/productId/9NL3GNG31TMK), [Apple](https://apps.apple.com/us/app/ch9/id1512235875?ls=1), [Google](https://play.google.com/store/apps/details?id=uno.platform.ch9&hl=en)).
 
 * [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
 
@@ -152,7 +150,7 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 Education are listed by newest date first.
 
-* Learn WinUI 3.0 [![Generic badge](https://img.shields.io/badge/WinUI-3-blue.svg)](https://shields.io/) - (Fall 2020) - Alvin Ashcraft, Packt Publishing - [Early announcement](https://www.winui.tips/2020/02/learn-winui-30-my-new-book-to-be.html).
+* [Learn WinUI 3.0](https://www.packtpub.com/product/learn-winui-3-0/9781800208667) - Alvin Ashcraft, Packt Publishing - The book begins by helping you get to grips with the latest features in WinUI and shows you how XAML is used in UI development. You'll then set up a new Visual Studio environment and learn how to create a new UWP project. Next, you'll find out how to incorporate the Model-View-ViewModel (MVVM) pattern in a WinUI project and develop unit tests for ViewModel commands. Moving on, you'll cover the Windows Template Studio (WTS) new project wizard and WinUI libraries in a step-by-step way. As you advance, you'll discover how to leverage the Fluent Design system to create beautiful WinUI applications. You'll also explore the contents and capabilities of the Windows Community Toolkit and learn to create a new UWP user control. Toward the end, the book will teach you how to build, debug, unit test, deploy, and monitor apps in production.
 * [Introduction to Uno Platform](https://www.udemy.com/course/introduction-to-uno-platform/?referralCode=C9FE308096EADFB5B661) - (August 2020) - Christian Findlay, Udemy - Build Single-Source WebAssembly, Mobile and Desktop Apps with C#.
 
 ## Channels
