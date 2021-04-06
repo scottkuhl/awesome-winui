@@ -23,7 +23,7 @@ As of version 3.0 it has been decoupled from the underlying Windows development 
 
 ### What We Track
 
-This list focuses on libraries, articles, tutorials, books and other resources for building Windows application with WinUI.  Older content can be found in the Archive folder.
+This list focuses on libraries, tutorials, books and other resources for building Windows application with WinUI.  Older content can be found in the Archive folder.
 
 ## Contents
 * [General](#general)
