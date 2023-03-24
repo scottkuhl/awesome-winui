@@ -75,6 +75,7 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 * [Telerik UI for WinUI](https://www.telerik.com/winui) - Telerik UI for WinUI is an early experiment for the UI component suite, targeting WinUI 3.0. Its purpose is to make the development of modern and feature-rich applications faster and easier. **[$]**
 
+* [CodeMarkup for WinUI](https://github.com/idexus/CodeMarkup-WinUI) - CodeMarkup for WinUI enables you to build user interfaces declaratively in C# code using fluent methods. With this library, you can create interfaces without the need for XAML.
 
 ## Tooling
 
