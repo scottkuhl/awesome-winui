@@ -77,6 +77,8 @@ This list focuses on libraries, tutorials, books and other resources for buildin
 
 * [CodeMarkup for WinUI](https://github.com/idexus/CodeMarkup-WinUI) - CodeMarkup for WinUI enables you to build user interfaces declaratively in C# code using fluent methods. With this library, you can create interfaces without the need for XAML.
 
+* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - Lightweight library designed to handle and manage keyboard/mouse input events in Windows UI applications.
+
 ## Tooling
 
 * [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) - ![GitHub stars](https://img.shields.io/github/stars/Microsoft/WindowsTemplateStudio?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/WindowsTemplateStudio?cacheSeconds=86000) Windows Template Studio (WinTS) is a Visual Studio 2019 Extension that accelerates the creation of new Universal Windows Platform (UWP) and Windows Presentation Foundation (WPF .NET Core 3.1) apps using a wizard-based experience. The resulting project is well-formed, readable code that incorporates great development features while implementing proven patterns and best practices. Sprinkled throughout the generated code we have links Docs, Stack Overflow and blogs to provide useful insights. WinTS supports creating UWP apps in C# or VB.Net and WPF (.NET Core 3.1) apps in C#.
