@@ -152,6 +152,8 @@ _Microsoft stopped funding the internal team who were working on Windows Templat
 
 * [UWP IEXCloud Sample](https://github.com/XamlBrewer/UWP-IEXCloud-Sample) - ![GitHub stars](https://img.shields.io/github/stars/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/XamlBrewer/UWP-IEXCloud-Sample?cacheSeconds=86000) An attempt to build a representative and useful WinUI reference app.  The [announcement article](https://xamlbrewer.wordpress.com/2020/06/16/a-winui-2-reference-app/) can be found here.
 
+* [Authi](https://github.com/cherepets/authi.me) - ![GitHub stars](https://img.shields.io/github/stars/cherepets/authi.me?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/cherepets/authi.me?cacheSeconds=86000) WinUI 3 and .NET MAUI two-factor authentication application with accountless cloud sync.  The app is also available in App Stores ([Microsoft](https://apps.microsoft.com/store/detail/9MVC7RHMZ304), [Google](https://play.google.com/store/apps/details?id=me.cherepets.authi.app)).
+
 ## Education
 
 Education are listed by newest date first.
